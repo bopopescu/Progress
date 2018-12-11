@@ -1,0 +1,22 @@
+[11/27/2018, 3:29:22 PM] layer "arrow.png": Duplicate path: arrow.png
+[11/27/2018, 3:29:22 PM] layer "arrow.png": Duplicate path: arrow.png
+[11/27/2018, 3:29:22 PM] layer "arrow.png": Duplicate path: arrow.png
+[11/27/2018, 3:29:22 PM] layer "arrow.png": Duplicate path: arrow.png
+[11/27/2018, 3:29:22 PM] layer "arrow.png のコピー": Expected end of input but "\u306E" found.
+[11/27/2018, 3:29:22 PM] layer "arrow.png": Duplicate path: arrow.png
+[11/27/2018, 3:29:22 PM] layer "voice.png": Duplicate path: voice.png
+[11/27/2018, 3:29:22 PM] layer "ex_sp.png": Duplicate path: ex_sp.png
+[11/27/2018, 3:29:22 PM] layer "arrow_SP.png": Duplicate path: arrow_SP.png
+[11/27/2018, 3:29:22 PM] layer "arrow_SP.png": Duplicate path: arrow_SP.png
+[11/27/2018, 3:29:22 PM] layer "arrow_SP.png": Duplicate path: arrow_SP.png
+[11/27/2018, 3:29:22 PM] layer "lv.jpg のコピー": Expected end of input but "\u306E" found.
+[11/27/2018, 3:29:22 PM] layer "lv.jpg のコピー 2": Expected end of input but "\u306E" found.
+[11/27/2018, 3:29:22 PM] layer "drop1.png": Duplicate path: drop1.png
+[11/27/2018, 3:29:22 PM] layer "drop1.png": Duplicate path: drop1.png
+[11/27/2018, 3:29:22 PM] layer "drop2.png": Duplicate path: drop2.png
+[11/27/2018, 3:29:22 PM] layer "drop2.png": Duplicate path: drop2.png
+[11/27/2018, 3:29:22 PM] layer "jinsokutaio.png のコピー 2": Expected end of input but "\u306E" found.
+[11/27/2018, 3:29:22 PM] layer "jinsokutaio.png のコピー 3": Expected end of input but "\u306E" found.
+[11/27/2018, 3:29:22 PM] layer "jinsokutaio.png のコピー 4": Expected end of input but "\u306E" found.
+[11/27/2018, 3:29:22 PM] layer "jinsokutaio.png のコピー 4": Expected end of input but "\u306E" found.
+[11/27/2018, 3:29:22 PM] layer "jinsokutaio.png のコピー 4": Expected end of input but "\u306E" found.

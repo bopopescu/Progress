@@ -1,0 +1,358 @@
+[Fri Nov 02 11:41:37 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 02 11:41:37 2018] [notice] Digest: done
+[Fri Nov 02 11:41:37 2018] [notice] FastCGI: process manager initialized (pid 15457)
+[Fri Nov 02 11:41:37 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 02 11:43:39 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 11:52:16 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 02 11:52:25 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 02 11:52:25 2018] [notice] Digest: done
+[Fri Nov 02 11:52:25 2018] [notice] FastCGI: process manager initialized (pid 19633)
+[Fri Nov 02 11:52:25 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 02 11:53:06 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 12:02:13 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 02 12:02:49 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 02 12:02:49 2018] [notice] Digest: done
+[Fri Nov 02 12:02:49 2018] [notice] FastCGI: process manager initialized (pid 21060)
+[Fri Nov 02 12:02:49 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 02 12:03:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 12:08:25 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 02 12:08:28 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 02 12:08:28 2018] [notice] Digest: done
+[Fri Nov 02 12:08:28 2018] [notice] FastCGI: process manager initialized (pid 22111)
+[Fri Nov 02 12:08:28 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 02 12:09:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 12:10:01 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 02 12:10:03 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 02 12:10:03 2018] [notice] Digest: done
+[Fri Nov 02 12:10:03 2018] [notice] FastCGI: process manager initialized (pid 22703)
+[Fri Nov 02 12:10:03 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 02 12:13:34 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 02 12:21:47 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 02 12:21:47 2018] [notice] Digest: done
+[Fri Nov 02 12:21:47 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 02 12:21:47 2018] [notice] FastCGI: process manager initialized (pid 24114)
+[Fri Nov 02 12:21:48 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 12:27:09 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 13:58:46 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 15:10:50 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 15:13:13 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 17:39:21 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 02 18:00:01 2018] [notice] caught SIGTERM, shutting down
+[Tue Nov 06 12:02:42 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 06 12:02:42 2018] [notice] Digest: done
+[Tue Nov 06 12:02:42 2018] [notice] FastCGI: process manager initialized (pid 1174)
+[Tue Nov 06 12:02:42 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Nov 06 12:02:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 12:03:58 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Nov 06 12:04:02 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 12:34:34 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/?language=English
+[Tue Nov 06 13:08:12 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 13:29:38 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 13:40:29 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/?language=English
+[Tue Nov 06 13:47:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 14:49:20 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 14:58:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 15:13:42 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 15:26:28 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/?language=English
+[Tue Nov 06 16:08:31 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 16:40:18 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Applications, referer: http://localhost/Progress/
+[Tue Nov 06 16:41:37 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Applications, referer: http://localhost/Progress/
+[Tue Nov 06 16:43:01 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 17:15:18 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 17:19:43 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/?language=English
+[Tue Nov 06 17:35:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 17:43:19 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 06 17:59:52 2018] [notice] caught SIGTERM, shutting down
+[Thu Nov 08 10:04:35 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Nov 08 10:04:35 2018] [notice] Digest: done
+[Thu Nov 08 10:04:35 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Nov 08 10:04:35 2018] [notice] FastCGI: process manager initialized (pid 11102)
+[Thu Nov 08 10:04:36 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 10:49:46 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 11:16:20 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 11:51:56 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 12:06:39 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 12:38:10 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 12:50:17 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 13:44:17 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 13:59:02 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 14:18:44 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 14:48:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 15:11:08 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 15:29:27 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 15:39:52 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/?language=English
+[Thu Nov 08 15:39:52 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 16:08:11 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 16:44:06 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 16:44:15 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/?language=English
+[Thu Nov 08 16:44:48 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/index.php?language=English
+[Thu Nov 08 16:49:21 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/index.php?language=English
+[Thu Nov 08 16:49:21 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 17:16:18 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 17:20:45 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 17:47:19 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Thu Nov 08 17:47:22 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost/MAMP/?language=English
+[Thu Nov 08 17:53:32 2018] [notice] caught SIGTERM, shutting down
+[Sat Nov 10 12:18:34 2018] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 10 12:18:34 2018] [notice] Digest: done
+[Sat Nov 10 12:18:34 2018] [notice] FastCGI: process manager initialized (pid 8159)
+[Sat Nov 10 12:18:34 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sat Nov 10 12:18:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sat Nov 10 12:20:20 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sat Nov 10 21:26:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sat Nov 10 21:26:58 2018] [notice] caught SIGTERM, shutting down
+[Sun Nov 11 10:26:10 2018] [notice] Digest: generating secret for digest authentication ...
+[Sun Nov 11 10:26:10 2018] [notice] Digest: done
+[Sun Nov 11 10:26:10 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sun Nov 11 10:26:10 2018] [notice] FastCGI: process manager initialized (pid 10433)
+[Sun Nov 11 10:26:11 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sun Nov 11 10:27:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sun Nov 11 11:44:53 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sun Nov 11 13:15:18 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sun Nov 11 13:21:46 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sun Nov 11 13:29:14 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sun Nov 11 22:01:34 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Sun Nov 11 22:04:34 2018] [notice] caught SIGTERM, shutting down
+[Tue Nov 13 10:37:07 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 13 10:37:07 2018] [notice] Digest: done
+[Tue Nov 13 10:37:07 2018] [notice] FastCGI: process manager initialized (pid 33216)
+[Tue Nov 13 10:37:07 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Nov 13 10:37:09 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 10:38:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 11:19:56 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 11:38:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 11:53:54 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 12:01:50 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 12:17:12 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 12:45:23 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 13:45:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 14:12:33 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 14:35:56 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 14:45:57 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 15:07:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 15:41:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 16:12:48 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 16:45:42 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 17:03:41 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 17:28:33 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 17:54:57 2018] [notice] caught SIGTERM, shutting down
+[Tue Nov 13 22:08:09 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 13 22:08:09 2018] [notice] Digest: done
+[Tue Nov 13 22:08:09 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Nov 13 22:08:09 2018] [notice] FastCGI: process manager initialized (pid 44056)
+[Tue Nov 13 22:08:11 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 13 22:21:36 2018] [notice] caught SIGTERM, shutting down
+[Wed Nov 14 10:13:57 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 14 10:13:57 2018] [notice] Digest: done
+[Wed Nov 14 10:13:57 2018] [notice] FastCGI: process manager initialized (pid 46456)
+[Wed Nov 14 10:13:57 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Nov 14 10:13:58 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Nov 14 10:28:38 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Nov 14 10:40:24 2018] [notice] caught SIGTERM, shutting down
+[Wed Nov 14 10:43:57 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 14 10:43:57 2018] [notice] Digest: done
+[Wed Nov 14 10:43:57 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Nov 14 10:43:57 2018] [notice] FastCGI: process manager initialized (pid 1709)
+[Wed Nov 14 11:03:52 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Nov 14 11:14:13 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Nov 14 11:21:08 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Nov 14 18:03:16 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 16 10:41:09 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 16 10:41:09 2018] [notice] Digest: done
+[Fri Nov 16 10:41:09 2018] [notice] FastCGI: process manager initialized (pid 56457)
+[Fri Nov 16 10:41:09 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 16 10:41:11 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 10:41:12 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 16 10:41:24 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 16 10:41:24 2018] [notice] Digest: done
+[Fri Nov 16 10:41:24 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 16 10:41:24 2018] [notice] FastCGI: process manager initialized (pid 56703)
+[Fri Nov 16 11:48:23 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 14:20:54 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 15:26:20 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 15:51:01 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 16:19:54 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 16:46:10 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 17:25:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 17:41:11 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 16 17:59:07 2018] [notice] caught SIGTERM, shutting down
+[Tue Nov 20 10:14:05 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 20 10:14:05 2018] [notice] Digest: done
+[Tue Nov 20 10:14:05 2018] [notice] FastCGI: process manager initialized (pid 14948)
+[Tue Nov 20 10:14:05 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Nov 20 10:14:06 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 20 10:14:46 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/WP-ADMIN
+[Tue Nov 20 10:15:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/wp-admin
+[Tue Nov 20 10:15:05 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/wp-content
+[Tue Nov 20 10:15:34 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/wp-admin
+[Tue Nov 20 10:19:32 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 20 11:17:48 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 20 11:33:48 2018] [notice] caught SIGTERM, shutting down
+[Tue Nov 20 11:34:18 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 20 11:34:18 2018] [notice] Digest: done
+[Tue Nov 20 11:34:18 2018] [notice] FastCGI: process manager initialized (pid 17567)
+[Tue Nov 20 11:34:18 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Nov 20 12:37:34 2018] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Nov 20 12:39:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/index.php
+[Tue Nov 20 12:39:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/index.php
+[Tue Nov 20 12:39:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/index.php
+[Tue Nov 20 12:39:29 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:39:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/index.php
+[Tue Nov 20 12:39:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/index.php
+[Tue Nov 20 12:39:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/index.php
+[Tue Nov 20 12:40:25 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:40:25 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:40:25 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:40:34 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:40:34 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:40:34 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:40:49 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:44:47 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:44:47 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 12:44:47 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/app, referer: http://localhost/Progress/wp-admin/
+[Tue Nov 20 15:12:38 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 15:13:37 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 20 15:13:44 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 15:18:44 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 15:18:48 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 15:19:25 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 15:19:34 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 15:19:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:20:13 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:20:53 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 20 16:20:55 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:21:28 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:22:10 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:22:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:22:48 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:23:08 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:34:36 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:35:26 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:36:02 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/style.css/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:36:44 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 16:38:49 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/sm-style.css, referer: http://localhost/Progress/
+[Tue Nov 20 22:20:25 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 23 10:06:52 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 23 10:06:52 2018] [notice] Digest: done
+[Fri Nov 23 10:06:52 2018] [notice] FastCGI: process manager initialized (pid 40576)
+[Fri Nov 23 10:06:52 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 23 10:06:53 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 10:06:54 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 10:11:44 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/wp-admin
+[Fri Nov 23 10:11:59 2018] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/wp
+[Fri Nov 23 10:26:51 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 10:42:29 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 11:25:38 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 11:42:58 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 11:57:32 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 12:19:51 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 12:31:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 12:47:12 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 14:55:06 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 15:17:55 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 16:00:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 16:10:41 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 16:23:14 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 16:38:03 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 17:24:55 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 23 17:50:44 2018] [notice] caught SIGTERM, shutting down
+[Tue Nov 27 10:24:38 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 27 10:24:38 2018] [notice] Digest: done
+[Tue Nov 27 10:24:38 2018] [notice] FastCGI: process manager initialized (pid 77293)
+[Tue Nov 27 10:24:38 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Nov 27 10:24:39 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 11:18:36 2018] [notice] caught SIGTERM, shutting down
+[Tue Nov 27 11:20:12 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 27 11:20:12 2018] [notice] Digest: done
+[Tue Nov 27 11:20:12 2018] [notice] FastCGI: process manager initialized (pid 649)
+[Tue Nov 27 11:20:12 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Nov 27 11:20:38 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 11:22:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 11:27:31 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 11:42:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 12:06:33 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 12:26:04 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 12:50:25 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 13:45:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 14:37:24 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 15:05:35 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 15:28:16 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 16:31:21 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 16:40:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 17:10:52 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 17:36:22 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Nov 27 17:50:27 2018] [notice] caught SIGTERM, shutting down
+[Fri Nov 30 10:08:48 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 30 10:08:48 2018] [notice] Digest: done
+[Fri Nov 30 10:08:48 2018] [notice] FastCGI: process manager initialized (pid 8171)
+[Fri Nov 30 10:08:48 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Nov 30 10:08:49 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 11:10:00 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 11:39:14 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 12:07:05 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 12:45:38 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 15:06:13 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 16:43:13 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 17:45:34 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Nov 30 17:51:38 2018] [notice] caught SIGTERM, shutting down
+[Tue Dec 04 10:09:29 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Dec 04 10:09:29 2018] [notice] Digest: done
+[Tue Dec 04 10:09:29 2018] [notice] FastCGI: process manager initialized (pid 34747)
+[Tue Dec 04 10:09:29 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Dec 04 10:09:30 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 10:30:54 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 10:42:05 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 10:58:08 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 11:24:42 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 11:42:47 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 11:57:47 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 12:07:53 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 12:27:42 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 12:50:52 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 13:48:48 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 14:38:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 15:12:07 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 15:25:27 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 16:00:56 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 16:52:10 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 17:33:25 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 17:43:22 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 04 17:47:33 2018] [notice] caught SIGTERM, shutting down
+[Wed Dec 05 10:05:09 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Dec 05 10:05:09 2018] [notice] Digest: done
+[Wed Dec 05 10:05:09 2018] [notice] FastCGI: process manager initialized (pid 44132)
+[Wed Dec 05 10:05:09 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Dec 05 10:15:11 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 10:35:02 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 10:54:56 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 11:13:05 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 12:20:44 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 13:35:04 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 14:15:52 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 15:30:49 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 16:08:45 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 16:41:52 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 17:09:17 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 17:43:49 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Wed Dec 05 17:53:29 2018] [notice] caught SIGTERM, shutting down
+[Fri Dec 07 10:06:55 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Dec 07 10:06:55 2018] [notice] Digest: done
+[Fri Dec 07 10:06:55 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Fri Dec 07 10:06:55 2018] [notice] FastCGI: process manager initialized (pid 93733)
+[Fri Dec 07 10:06:56 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 10:19:40 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 10:50:58 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 11:17:10 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 11:41:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 12:21:28 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 13:23:27 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 15:33:43 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 16:15:32 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 17:00:11 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 17:39:22 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Fri Dec 07 17:57:42 2018] [notice] caught SIGTERM, shutting down
+[Tue Dec 11 10:15:30 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Dec 11 10:15:30 2018] [notice] Digest: done
+[Tue Dec 11 10:15:30 2018] [notice] FastCGI: process manager initialized (pid 90874)
+[Tue Dec 11 10:15:30 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Tue Dec 11 10:15:31 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
