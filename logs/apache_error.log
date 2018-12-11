@@ -356,3 +356,7 @@
 [Tue Dec 11 10:15:30 2018] [notice] FastCGI: process manager initialized (pid 90874)
 [Tue Dec 11 10:15:30 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
 [Tue Dec 11 10:15:31 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Tue Dec 11 10:43:39 2018] [emerg] (2)No such file or directory: Couldn't initialize cross-process lock in child (/Applications/MAMP/Library/logs/accept.lock.90856) (5)
+[Tue Dec 11 10:43:40 2018] [alert] Child 92029 returned a Fatal error... Apache is exiting!
+[Tue Dec 11 10:43:40 2018] [emerg] (2)No such file or directory: Couldn't initialize cross-process lock in child (/Applications/MAMP/Library/logs/accept.lock.90856) (5)
+[Tue Dec 11 10:43:40 2018] [emerg] (2)No such file or directory: Couldn't initialize cross-process lock in child (/Applications/MAMP/Library/logs/accept.lock.90856) (5)
