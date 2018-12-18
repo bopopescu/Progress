@@ -3,20 +3,37 @@
         <?php get_sidebar(); //sidebar.phpを取得 ?>
     </aside>
     <section id="content" class="clearfix">
-        <!-- <section id="top-image">
-            <span id="zisseki">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/zisseki.png" alt="">
-            </span>
-            <span id="zisseki-sp">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/zisseki_SP.png" alt="">
-            </span>
-            <div class="right-img"></div>
-            <div class="left-img1"></div>
-            <div class="left-img2"></div>
-            <div class="left-img3"></div>
+        <section id="top-image">
+            <div class="up-top">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/top_img.jpg" alt="">
+            </div>
+            <div class="slide">
+                <ul>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide01.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide02.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide03.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide04.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide05.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide06.jpg" alt=""></li>
+                </ul>
+            </div>
+        </section>
+        <!-- <section id="top-image-sp">
+            <div>
+                <img src="<?php echo get_template_directory_uri(); ?>/img/top_img_sp.jpg" alt="">
+            </div>
+            <div class="slide">
+                <ul>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide1_sp.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide2_sp.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide3_sp.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide4_sp.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide5_sp.jpg" alt=""></li>
+                    <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide6_sp.jpg" alt=""></li>
+                </ul>
+            </div>
         </section> -->
-
-        <!-- <section class="table-map">
+        <section class="table-map">
             <h3 id="map-title">対応エリア</h3>
             
             <div class="map-describe">
@@ -36,7 +53,7 @@
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
 
         <section class="competitive-rates">
             <div class="section-title">
@@ -122,7 +139,32 @@
                 <img src="<?php echo get_template_directory_uri(); ?>/img/step.png" alt="">
             </div>
             <div class="flow-img-sp">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/step_SP.png" alt="">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/step_sp.png" alt="">
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/1_SP.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/2_SP.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/3_SP.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/4_SP.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/5_SP.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/6_SP.png" alt="">
+                        </li>
+
+                    </ul>
+                </div>
             </div>
         </section>
 
@@ -132,107 +174,134 @@
                 <span>reason</span>
             </div>
             <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
-            <!-- ============================================================= -->
-            <div class="reason-describe-up">
-                <div class="reason-lf">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/reason01.jpg" alt="">
-                </div>
-                <div class="reason-rg">
-                    <div class="desc-content-up">
-                        <div class="reason-circle-light">
-                            <h2>
-                                迅速対応
-                            </h2>
-                        </div>
-                        <div class="reason-content">
-                            <div class="reason-point">
-                                <img src="<?php echo get_template_directory_uri(); ?>/img/POINT1.png" alt="">
-                                <p>不用品1点でも回収にお伺い致します。TV１台から家１軒<br>
-                                まるごと整理までおまかせください。</p>
-                            </div>
+            <div class="reason-describe">
+                <div class="r-left">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reason02.jpg" alt="" id="r-pic-left">
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT4.png" alt="">
+                            <p>他の不用品回収業者より高ければご遠慮なくお申<br>
+                            し付けください。</p>
                         </div>
                     </div>
-                    <div class="desc-content-up">
-                        <div class="reason-circle-dark">
-                            <h2>
-                                業界最安値
-                            </h2>
-                        </div>
-                        <div class="reason-content">
-                            <div class="reason-point">
-                                <img src="<?php echo get_template_directory_uri(); ?>/img/POINT2.png" alt="">
-                                <p>不用品の量が分からない場合にも便利！<br>
-                                お見積もりは完全に無料です。</p>
-                            </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT5.png" alt="">
+                            <p>不用品の高価買取ならアース東京まで！幅広く買<br>
+                            取品目を設定しております。</p>
                         </div>
                     </div>
-                    <div class="desc-content-up">
-                        <div class="reason-circle-light">
-                            <h2>
-                                見積無料
-                            </h2>
-                        </div>
-                        <div class="reason-content">
-                            <div class="reason-point">
-                                <img src="<?php echo get_template_directory_uri(); ?>/img/POINT3.png" alt="">
-                                <p>ご希望の日時に不用品回収に伺います。<br>
-                                問い合わせも365日OK・即日対応！</p>
-                            </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT6.png" alt="">
+                            <p>不用品回収前に正式見積書をご提出。以降に回収<br>
+                            料金の追加は一切無く安心！</p>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- ===================================================================I -->
-            <div class="reason-describe-down">
-                <div class="reason-lf">
-                    <div class="desc-content-down">
-                        <div class="reason-content">
-                            <div class="reason-point">
-                                <img src="<?php echo get_template_directory_uri(); ?>/img/POINT4.png" alt="">
-                                <p>他の不用品回収業者より高ければご遠慮なくお申<br>
-                                し付けください。</p>
-                            </div>
-                        </div>
-                        <div class="reason-circle-dark">
-                            <h2>
-                                高価買取
-                            </h2>
-                        </div>
+                <div class="r-center">
+                    <div class="reason-circle-light">
+                        <h2>
+                            迅速対応
+                        </h2>
                     </div>
-                    <div class="desc-content-down">
-                        <div class="reason-content">
-                            <div class="reason-point">
-                                <img src="<?php echo get_template_directory_uri(); ?>/img/POINT5.png" alt="">
-                                <p>不用品の高価買取ならアース東京まで！幅広く買<br>
-                                取品目を設定しております。</p>
-                            </div>
-                        </div>
-                        <div class="reason-circle-light">
-                            <h2>
-                                少量対応
-                            </h2>
-                        </div>
+                    <div class="reason-circle-dark">
+                        <h2>
+                            業界最安値
+                        </h2>
                     </div>
-                    <div class="desc-content-down">
-                        <div class="reason-content">
-                            <div class="reason-point">
-                                <img src="<?php echo get_template_directory_uri(); ?>/img/POINT6.png" alt="">
-                                <p>不用品回収前に正式見積書をご提出。以降に回収<br>
-                                料金の追加は一切無く安心！</p>
-                            </div>
-                        </div>
-                        <div class="reason-circle-dark">
-                            <h2>
-                                追加料金ナシ
-                            </h2>
-                        </div>
+                    <div class="reason-circle-light">
+                        <h2>
+                            見積無料
+                        </h2>
+                    </div>
+                    <div class="reason-circle-dark">
+                        <h2>
+                            高価買取
+                        </h2>
+                    </div>
+                    <div class="reason-circle-light">
+                        <h2>
+                            少量対応
+                        </h2>
+                    </div>
+                    <div class="reason-circle-dark">
+                        <h2>
+                            追加料金ナシ
+                        </h2>
                     </div>
                 </div>
-                <div class="reason-rg">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/reason02.jpg" alt="">
+                <div class="r-right">
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT1.png" alt="">
+                            <p>不用品1点でも回収にお伺い致します。TV１台から家１軒<br>
+                            まるごと整理までおまかせください。</p>
+                        </div>
+                    </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT2.png" alt="">
+                            <p>不用品の量が分からない場合にも便利！<br>
+                            お見積もりは完全に無料です。</p>
+                        </div>
+                    </div>
+                
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT3.png" alt="">
+                            <p>ご希望の日時に不用品回収に伺います。<br>
+                            問い合わせも365日OK・即日対応！</p>
+                        </div>
+                    </div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reason01.jpg" alt="" id="r-pic-right">
+                </div>
+                <div class="r-right-sp">
+                    <div class="reason-point">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/POINT1_sp.png" alt="">
+                        <p>不用品1点でも回収にお伺い致します。TV１台から家１軒<br>
+                        まるごと整理までおまかせください。</p>
+                    </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT2_sp.png" alt="">
+                            <p>不用品の量が分からない場合にも便利！<br>
+                            お見積もりは完全に無料です。</p>
+                        </div>
+                    </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT3_sp.png" alt="">
+                            <p>ご希望の日時に不用品回収に伺います。<br>
+                            問い合わせも365日OK・即日対応！</p>
+                        </div>
+                    </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT4_sp.png" alt="">
+                            <p>他の不用品回収業者より高ければご遠慮なくお申<br>
+                            し付けください。</p>
+                        </div>
+                    </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT5_sp.png" alt="">
+                            <p>不用品の高価買取ならアース東京まで！幅広く買<br>
+                            取品目を設定しております。</p>
+                        </div>
+                    </div>
+                    <div class="reason-point">
+                        <div>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/POINT6_sp.png" alt="">
+                            <p>不用品回収前に正式見積書をご提出。以降に回収<br>
+                            料金の追加は一切無く安心！</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
+
+        
 
         <section class="example"> 
             <!-- phpのブログ処理 -->
