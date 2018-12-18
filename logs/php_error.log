@@ -268,3 +268,13 @@ Stack trace:
 #6 /Applications/MAMP/htdocs/Progress/index.php(17): require('/Applications/M...')
 #7 {main}
   thrown in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/header.php on line 15
+[11-Dec-2018 07:44:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'add_scripts' not found or invalid function name in /Applications/MAMP/htdocs/Progress/wp-includes/class-wp-hook.php on line 286
+[11-Dec-2018 07:44:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'add_scripts' not found or invalid function name in /Applications/MAMP/htdocs/Progress/wp-includes/class-wp-hook.php on line 286
+[11-Dec-2018 07:54:52 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 6
+[11-Dec-2018 07:54:52 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 6
+[11-Dec-2018 07:55:32 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 6
+[11-Dec-2018 07:55:32 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 6
+[11-Dec-2018 08:04:17 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 6
+[11-Dec-2018 08:04:17 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 6
+[11-Dec-2018 08:04:34 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 8
+[11-Dec-2018 08:04:34 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/functions.php on line 8

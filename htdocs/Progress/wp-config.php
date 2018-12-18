@@ -43,6 +43,23 @@ define('DB_CHARSET', 'utf8mb4');
 /** データベースの照合順序 (ほとんどの場合変更する必要はありません) */
 define('DB_COLLATE', '');
 
+// define('DB_NAME', 'huyouhin-ring_wpdb');
+
+// /** MySQL データベースのユーザー名 */
+//  define('DB_USER', 'huyouhin-ring');
+
+//  /** MySQL データベースのパスワード */
+//  define('DB_PASSWORD', 'fvs3gmxaxg');
+
+//  /** MySQL のホスト名 */
+//  define('DB_HOST', 'mysql640.db.sakura.ne.jp');
+
+//  /** データベースのテーブルを作成する際のデータベースの文字セット */
+//  define('DB_CHARSET', 'utf8mb4');
+
+//  /** データベースの照合順序 (ほとんどの場合変更する必要はありません) */
+//  define('DB_COLLATE', '');
+
 /**#@+
  * 認証用ユニークキー
  *
