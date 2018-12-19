@@ -24,13 +24,11 @@
                 <img src="<?php echo get_template_directory_uri(); ?>/img/logo2_SP.png" alt="logo">
             </div>
             <div class="mb-menu">
-                <div class="mb-hamburger">
-                    <a class="menu-trigger">
-                        <span></span>
-                        <span></span>
-                        <div>MENU</div>
-                    </a>
-                </div>
+                <a class="menu-trigger">
+                    <span></span>
+                    <span></span>
+                    <div>MENU</div>
+                </a>
             </div>
         </nav>
         <div class="menu-contents">
