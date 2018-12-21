@@ -262,6 +262,10 @@ header {
     margin: 70px 0;
 }
 
+.sp-circle {
+    display: none;
+}
+
 .circle-rate {
     margin: 100px 0;
 }
@@ -836,6 +840,10 @@ footer {
     .character-image-sp img {
         width: calc(100%/4);
         height: auto;
+    }
+
+    .sp-circle {
+        display: inline;
     }
 
     .circle-rate {
