@@ -114,11 +114,15 @@
             </div>
             <div class="circle-rate">
                 <div>
-                    <p>どうしてもリサイクル</p>
-                    <p>できない約２割の不要</p>
-                    <p>品のみ処理工場で適切</p>
-                    <p>に処理しています。</p>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/70.png" alt="">
+                    <p>どうしてもリサイクル<br>
+                        できない約２割の不要<br>
+                        品のみ処理工場で適切<br>
+                        に処理しています。
+                    </p>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/logo_ on_graph.png" alt="" class="pc-circle">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/logo_ on_graph_SP.png" alt="" class="sp-circle">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/70.png" alt="" class="pc-circle">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/70_SP.png" alt="" class="sp-circle">
                 </div>
             </div>
             <div class="competitive-items-pc">
