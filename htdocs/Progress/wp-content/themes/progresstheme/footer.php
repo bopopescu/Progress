@@ -4,31 +4,24 @@
                 <ul class="f-contents">
                     <h2>サービスについて</h2>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">選ばれる理由</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">不用品サービス</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">リフォーム・ハウスクリーニング</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">引っ越しサービス</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">家具組立・移動サービス</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">不動産売却・解体工事</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">各種クレジットカード<br>ご利用いただけます</a>
                     </li>
                 </ul>
@@ -37,31 +30,24 @@
                 <ul class="f-contents">
                     <h2>不用品について</h2>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">買取対応品目一覧</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">サービスの流れ</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">法人のお客様</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">不用品の行方</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">お客様の声</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">買取事例のご紹介</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">よくあるご質問</a>
                     </li>
                 </ul>
@@ -70,23 +56,18 @@
                 <ul class="f-contents">
                     <h2>当社について</h2>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">当社の強み</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">会社概要</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">プライバシーポリシー</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">スタッフ紹介</a>
                     </li>
                     <li>
-                        <i class="fas fa-angle-right"></i>
                         <a href="">無料見積相談フォーム</a>
                     </li>
                 </ul>

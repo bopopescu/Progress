@@ -722,3 +722,8 @@
 [Tue Dec 18 11:36:30 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/huyouhin-ring.sakura.ne.jp, referer: http://localhost/Progress/
 [Tue Dec 18 12:06:50 2018] [emerg] (2)No such file or directory: Couldn't initialize cross-process lock in child (/Applications/MAMP/Library/logs/accept.lock.25364) (5)
 [Tue Dec 18 12:06:51 2018] [alert] Child 28541 returned a Fatal error... Apache is exiting!
+[Wed Dec 19 10:20:10 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Dec 19 10:20:10 2018] [notice] Digest: done
+[Wed Dec 19 10:20:10 2018] [notice] FastCGI: process manager initialized (pid 38038)
+[Wed Dec 19 10:20:10 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Dec 19 10:20:10 2018] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt

@@ -462,16 +462,29 @@ a .fa-arrow-alt-circle-right:hover{
 }
 
 /* ========================================================================== */
-.questions ul {
-    text-decoration: underline;
+.questions table {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-collapse: collapse;
 }
 
-.questions ul>li::before {
+.questions table tr {
+    border-bottom: solid 1px #00000057;
+}
+
+.questions table tr th::before {
     content: 'Q';
     color: rgb(145, 177, 54);
 }
 
 /* ========================================================================== */
+
+.card,
+.banner,
+.guideLine {
+    display: none;
+}
 
 footer {
     width: 90%;
@@ -589,21 +602,13 @@ footer {
 
     .mb-nav {
         width: 100%;
-        height: 50px;
+        height: 100px;
         display: flex;
         flex-direction: row;
         position: fixed;
         top: 0;
         background-color: #FFFF;
         z-index: 100;
-    }
-
-    .mb-hamburger {
-        width: 45px;
-        height: 45px;
-        border-radius: 50%;
-        color: #FFFF;
-        float: right;
     }
 
     .menu-trigger,
@@ -619,9 +624,8 @@ footer {
 
     .menu-trigger {
         position: relative;
-        width: 30px;
-        height: 48px;
-        margin-left: 5px;
+        width: 50px;
+        margin-right: 10px;
     }
 
     .menu-trigger span {
@@ -638,13 +642,15 @@ footer {
     }
 
     .menu-trigger span:nth-of-type(2){
-        top: 23px;
+        top: 25px;
     }
 
     .menu-trigger div{
-        font-size: 5px;
-        margin-top: 30px;
+        font-size: 15px;
         color: rgb(145, 177, 54);
+        position: absolute;
+        right: 5px;
+        top: 40px;
     }
 
     .menu-trigger.active span:nth-of-type(1) {
@@ -661,18 +667,14 @@ footer {
     
     .mb-logo img {
         width: 80%;
-        padding: 15px 0 0 10px;
+        padding: 25px 0;
         float: left;
     }
 
     .mb-title img {
-        width: 80%;
+        width: 90%;
         justify-content: center;
-        padding-top: 15px;
-    }
-
-    .mb-menu {
-        padding: 5px;
+        padding-top: 25px;
     }
 
     .map-describe {
@@ -1011,6 +1013,10 @@ footer {
         padding: 0;
     }
 
+    .f-contents>h2 {
+        margin: 0;
+    }
+
     .f-contents li {
         text-align: left;
         border-bottom: solid 1px #bebdbd;
@@ -1042,6 +1048,54 @@ footer {
 
     #tel {
         width: 70%;
+    }
+
+    .questions table {
+        width: 90%;
+        min-height: auto;
+        border: solid 1px black;
+        margin: 0 auto;
+    }
+
+    .questions table tr {
+        height: 110px;
+    }
+
+    .questions table tr th::before {
+        color: #42672a;
+    }
+
+    .questions table .answer {
+        display: none;
+    }
+    
+    .questions table .answer>th::before {
+        content: 'A.';
+        color: #42672a;
+    }
+
+    .questions table tr:nth-child(1),
+    .questions table tr:nth-child(5){
+        background-color: rgb(145, 177, 54);
+    }
+
+    .card,
+    .banner,
+    .guideLine {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner ul{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .guideLine {
+        width: 100%;
+        color: #fff;
+        background-color: black;
     }
     
 }

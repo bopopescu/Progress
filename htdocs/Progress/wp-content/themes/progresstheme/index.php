@@ -18,11 +18,11 @@
                 </ul>
             </div>
         </section>
-        <!-- <section id="top-image-sp">
+        <section id="top-image-sp">
             <div>
                 <img src="<?php echo get_template_directory_uri(); ?>/img/top_img_sp.jpg" alt="">
             </div>
-            <div class="slide">
+            <!-- <div class="slide">
                 <ul>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide1_sp.jpg" alt=""></li>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide2_sp.jpg" alt=""></li>
@@ -31,8 +31,8 @@
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide5_sp.jpg" alt=""></li>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide6_sp.jpg" alt=""></li>
                 </ul>
-            </div>
-        </section> -->
+            </div> -->
+        </section>
         <section class="table-map">
             <h3 id="map-title">対応エリア</h3>
             
@@ -497,12 +497,56 @@
                 <p>question</p>
             </div>
             <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
+            <table>
+                <tbody class="question-table">
+                    <tr>
+                        <th>不用品対応の支払いはどうすればいいですか？</th>
+                        <td>></td>
+                        <tr class="answer">
+                            <th>bjkg</th>
+                            <td></td>
+                        </tr>
+                    </tr>
+                    <tr>
+                        <th>不用品対応の支払いはどうすればいいですか？</th>
+                        <td>></td>
+                    </tr>
+                    <tr class="answer">
+                        <th>bjkg</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>不用品対応の支払いはどうすればいいですか？</th>
+                        <td>></td>
+                    </tr>
+                    <tr class="answer">
+                        <th>bjkg</th>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>不用品対応の支払いはどうすればいいですか？</th>
+                        <td>></td>
+                    </tr>
+                    <tr class="answer">
+                        <th>bjkg</th>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section class="card">
+            <span>各種クレジットカードもご利用いただけます</span>
+            <img src="<?php echo get_template_directory_uri(); ?>/img/card_sp.png" alt="">
+        </section>
+        <section class="banner">
             <ul>
-                <li>不用品対応の支払いはどうすればいいですか？</li>
-                <li>不用品対応の支払いはどうすればいいですか？</li>
-                <li>不用品対応の支払いはどうすればいいですか？</li>
-                <li>不用品対応の支払いはどうすればいいですか？</li>
+                <li>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/card_sp.png" alt="">
+                </li>
             </ul>
         </section>
+        <div class="guideLine">
+            <span>不用品回収リング TOPページ</span>
+        </div>
     </section>
 <?php get_footer(); // footer.phpを取得　PHPで終了
