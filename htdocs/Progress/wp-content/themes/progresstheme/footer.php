@@ -65,12 +65,23 @@
                         <a href="">プライバシーポリシー</a>
                     </li>
                     <li>
-                        <a href="">スタッフ紹介</a>
+                        <a href="">無料見積・お問い合わせ</a>
                     </li>
                     <li>
-                        <a href="">無料見積相談フォーム</a>
+                        <a href="">スタッフ紹介</a>
                     </li>
                 </ul>
+            </div>
+            <div class="mb-copy">
+                <span>
+                    Copyright &copy;<?php bloginfo( 'name' ); ?> All Rights Reserved.
+                </span>
+            </div>
+            <div class="gotop">
+                <a href="">
+                    <i class="fas fa-angle-up fa-3x"></i>
+                </a>
+                <p>先頭に戻る</p>
             </div>
             <div id="footer-img">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/kari.png" alt="写真">

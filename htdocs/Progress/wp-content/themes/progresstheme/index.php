@@ -511,7 +511,7 @@
                     <tr>
                         <th class="Q">Q</th>
                         <th>見積もりを依頼したらすぐ来てくれますか？</th>
-                        <td>></td>
+                        <td><i class="fas fa-angle-down arrow"></i></td>
                         <tr class="answer">
                             <th>A</th>
                             <td>gdsank</td>
@@ -520,7 +520,7 @@
                     <tr>
                         <th class="Q">Q</th>
                         <th>見積もりと買い取り・回収は別の日でも大丈夫ですか？</th>
-                        <td>></td>
+                        <td><i class="fas fa-angle-down arrow"></i></td>
                         <tr class="answer">
                             <th>A</th>
                             <td>gnasdl;</td>
@@ -529,7 +529,7 @@
                     <tr>
                         <th class="Q">Q</th>
                         <th>見積もりだけでも来てもらえますか？</th>
-                        <td>></td>
+                        <td><i class="fas fa-angle-down arrow"></i></td>
                         <tr class="answer">
                             <th>A</th>
                             <td>gdsl</td>
