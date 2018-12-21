@@ -500,36 +500,40 @@
             <table>
                 <tbody class="question-table">
                     <tr>
+                        <th class="Q">Q</th>
                         <th>不用品対応の支払いはどうすればいいですか？</th>
-                        <td>></td>
+                        <td><i class="fas fa-angle-down arrow"></i></td>
                         <tr class="answer">
-                            <th>bjkg</th>
-                            <td></td>
+                            <th>A</th>
+                            <td>gdlh</td>
                         </tr>
                     </tr>
                     <tr>
-                        <th>不用品対応の支払いはどうすればいいですか？</th>
+                        <th class="Q">Q</th>
+                        <th>見積もりを依頼したらすぐ来てくれますか？</th>
                         <td>></td>
-                    </tr>
-                    <tr class="answer">
-                        <th>bjkg</th>
-                        <td></td>
+                        <tr class="answer">
+                            <th>A</th>
+                            <td>gdsank</td>
+                        </tr>
                     </tr>
                     <tr>
-                        <th>不用品対応の支払いはどうすればいいですか？</th>
+                        <th class="Q">Q</th>
+                        <th>見積もりと買い取り・回収は別の日でも大丈夫ですか？</th>
                         <td>></td>
-                    </tr>
-                    <tr class="answer">
-                        <th>bjkg</th>
-                        <td></td>
+                        <tr class="answer">
+                            <th>A</th>
+                            <td>gnasdl;</td>
+                        </tr>
                     </tr>
                     <tr>
-                        <th>不用品対応の支払いはどうすればいいですか？</th>
+                        <th class="Q">Q</th>
+                        <th>見積もりだけでも来てもらえますか？</th>
                         <td>></td>
-                    </tr>
-                    <tr class="answer">
-                        <th>bjkg</th>
-                        <td></td>
+                        <tr class="answer">
+                            <th>A</th>
+                            <td>gdsl</td>
+                        </tr>
                     </tr>
                 </tbody>
             </table>
