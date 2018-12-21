@@ -462,11 +462,14 @@ a .fa-arrow-alt-circle-right:hover{
 }
 
 /* ========================================================================== */
+
+.questions {
+    margin-bottom: 200px;
+}
 .questions table {
     width: 865px;
     height: auto;
     margin: 0 auto;
-    border: solid 1px black;
     border-collapse: collapse;
     font-size: 30px;
 }
@@ -482,6 +485,10 @@ a .fa-arrow-alt-circle-right:hover{
 
 .answer {
     display: none;
+}
+
+.answer th {
+    color:  rgb(145, 177, 54);
 }
 
 .questions table tr {
