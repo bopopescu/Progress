@@ -18,7 +18,9 @@
     <header>
         <nav class="mb-nav">
             <div class="mb-logo">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/logo_SP.png" alt="logo">
+                <a href="/Progress">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/logo_SP.png" alt="logo">
+                </a>
             </div>
             <div class="mb-title">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/logo2_SP.png" alt="logo">

@@ -463,20 +463,32 @@ a .fa-arrow-alt-circle-right:hover{
 
 /* ========================================================================== */
 .questions table {
-    width: 100%;
+    width: 865px;
     height: auto;
     margin: 0 auto;
+    border: solid 1px black;
     border-collapse: collapse;
+    font-size: 30px;
+}
+
+.question-table tr>.Q {
+    color: rgb(145, 177, 54);
+}
+
+.arrow {
+    color: red;
+}
+
+.answer {
+    display: none;
 }
 
 .questions table tr {
+    height: 165px;
     border-bottom: solid 1px #00000057;
 }
 
-.questions table tr th::before {
-    content: 'Q';
-    color: rgb(145, 177, 54);
-}
+
 
 /* ========================================================================== */
 
@@ -571,9 +583,9 @@ footer {
     margin: 0 30px;
 }
 
-.fas {
+/* .fas {
     color: #f3f3f3;
-}
+} */
 
 .competitive-items-sp,
 .flow-img-sp {
@@ -601,10 +613,8 @@ footer {
     }
 
     .mb-nav {
-        width: 100%;
-        height: 100px;
+        height: 70px;
         display: flex;
-        flex-direction: row;
         position: fixed;
         top: 0;
         background-color: #FFFF;
@@ -625,7 +635,6 @@ footer {
     .menu-trigger {
         position: relative;
         width: 50px;
-        margin-right: 10px;
     }
 
     .menu-trigger span {
@@ -638,11 +647,11 @@ footer {
     }
 
     .menu-trigger span:nth-of-type(1){
-        top: 13px;
+        top: 5px;
     }
 
     .menu-trigger span:nth-of-type(2){
-        top: 25px;
+        top: 15px;
     }
 
     .menu-trigger div{
@@ -650,7 +659,7 @@ footer {
         color: rgb(145, 177, 54);
         position: absolute;
         right: 5px;
-        top: 40px;
+        top: 25px;
     }
 
     .menu-trigger.active span:nth-of-type(1) {
@@ -664,17 +673,21 @@ footer {
     .menu-trigger.active span:nth-of-type(3) {
         opacity: 0;
     } 
+
+    .mb-logo {
+        padding-left: 10px;
+    }
     
     .mb-logo img {
         width: 80%;
-        padding: 25px 0;
+        padding: 20px 0;
         float: left;
     }
 
     .mb-title img {
         width: 90%;
         justify-content: center;
-        padding-top: 25px;
+        padding-top: 20px;
     }
 
     .map-describe {
@@ -684,7 +697,6 @@ footer {
     #map-title {
         width: 120px;
         height: 20px;
-        font-size: 15px;
     }
 
     .menu-contents {
@@ -693,6 +705,7 @@ footer {
         z-index: 90;
         background-color: #fff;
         position: fixed;
+        margin-top: 60px;
     }
 
     #content {
@@ -1059,6 +1072,7 @@ footer {
 
     .questions table tr {
         height: 110px;
+        font-size: 15px;
     }
 
     .questions table tr th::before {
@@ -1069,8 +1083,7 @@ footer {
         display: none;
     }
     
-    .questions table .answer>th::before {
-        content: 'A.';
+    .questions table .answer>th{
         color: #42672a;
     }
 
