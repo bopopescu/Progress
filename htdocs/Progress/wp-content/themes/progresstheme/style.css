@@ -476,7 +476,8 @@ a .fa-arrow-alt-circle-right:hover{
 }
 
 .arrow {
-    color: red;
+    color: black;
+    transition: all .5s;
 }
 
 .answer {

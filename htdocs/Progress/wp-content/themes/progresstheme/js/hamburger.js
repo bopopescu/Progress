@@ -5,6 +5,9 @@
   });
 
   $('.question-table tr').click(function() {
+    $(this).addClass('move');
+    $('.move .arrow').toggleClass('fa-rotate-180');
+    $(this).removeClass('move');
     $(this)
       .next()
       .slideToggle('normal');
