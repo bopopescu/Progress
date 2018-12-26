@@ -18,6 +18,7 @@ body {
     overflow-x: hidden;
 }
 
+
 li {
     list-style: none;
 }
@@ -45,6 +46,26 @@ h1 {
 
 .sm-char {
     font-size: 30px;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+}
+
+.title a {
+    position: absolute;
+    right: 20%;
+    margin-top: 15px;
+}
+
+.line {
+    width: 5px;
+    height: 5px;
+    background-color: rgb(145, 177, 54);
+    transition: .5s;
+    transition-delay: .5s;
+    margin: 30px auto;
 }
 
 h4 {
@@ -248,7 +269,7 @@ header {
 /* ==================================================== */
 
 .competitive-rates {
-    margin-top: 1000px;
+    margin-top: 800px;
 }
 
 .character-image>span {
@@ -260,6 +281,10 @@ header {
     display: inline-flex;
     clear: both;
     margin: 70px 0;
+}
+
+.sp-circle {
+    display: none;
 }
 
 .circle-rate {
@@ -329,10 +354,7 @@ header {
 }
 /* ================================================ */
 
-.reason {
-    display: flex;
-    flex-direction: column;
-}
+
 
 .reason-describe {
     width: 100%;
@@ -404,14 +426,12 @@ header {
 /* =================================================================== */
 a .fa-arrow-alt-circle-right{
     color:rgb(145, 177, 54);
-    margin-left: 200px;
 }
 
 a .fa-arrow-alt-circle-right:hover{
     color: rgb(145, 177, 54);
     font-family: "Font Awesome 5 Free";
     content: '\f35a';
-    font-weight: 400;
     cursor: pointer;
 }
 
@@ -493,7 +513,7 @@ a .fa-arrow-alt-circle-right:hover{
 
 .arrow {
     color: black;
-    transition: all .5s;
+    transition: all 1s;
 }
 
 .answer {
@@ -522,32 +542,32 @@ a .fa-arrow-alt-circle-right:hover{
 
 footer {
     width: 90%;
-    min-height: 600px;
     margin-left: 10%;
     float: left;
-    border-top: solid 1px rgb(145, 177, 54);
     background-color: rgb(145, 177, 54);
     /* position: relative; */
+    text-align: left;
 }
 
-
-#footer-img {
-   height: 400px;
-   bottom: 300px;
-   right: 50px;
-   position: absolute;
-   margin-left: 0;
-   display: none;
+#staff-img {
+    position: relative;
+    padding-top: 100px;
+    right: 0;
 }
 
+#staff {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    max-width: 40%;
+}
 
 .list-container {
     display: inline-flex;
-
 }
 
 .f-contents {
-    margin: 50px;
+    padding: 50px;
     text-align: left;
 }
 
@@ -730,22 +750,27 @@ footer {
         margin-top: 60px;
     }
 
+    .up-top {
+        margin-top: 70px;
+        height: 200px;
+    }
+
     #content {
         width: 100%;
         margin-left: 0;
+    }
+
+    #top-image {
+        display: none;
     }
 
     #top-image-sp {
         display: flex;
         flex-direction: column;
         width: 100%;
-        height: 400px;
+        height: auto;;
         margin-top: 60px;
         margin-left: 0;
-    }
-
-    #top-image {
-        display: none;
     }
 
     h1 {
@@ -821,21 +846,32 @@ footer {
         width: 100%;
         justify-content: center;
         padding: 0;
+        margin: 0;
     }
 
     .competitive-comments-sp img {
-        width: 100%;
+        width: 80%;
         height: auto;
     }
 
     .character-image-sp {
         width: 100%;
         display: block;
+        margin-top: -10px;
     }
 
     .character-image-sp img {
         width: calc(100%/4);
         height: auto;
+        margin: 0 10px;
+    }
+
+    /* #progress-char {
+        width: calc(100%/3);
+    } */
+
+    .sp-circle {
+        display: inline;
     }
 
     .circle-rate {
@@ -992,37 +1028,35 @@ footer {
         width: 100%;
         margin-left: 0;
         display: flex;
+        flex-direction: column;
     }
 
     .service ul {
-        width: 100%;
         padding: 0;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
     }
 
     .service li {
-        display: inline-flex;
-        margin-top: 10px;
-        border-radius: 60px;
-        width: 80%;
-    }
-
-    .service>ul>li>a {
         display: flex;
         flex-direction: row;
+        margin: 10px auto;
+        border-radius: 60px;
+        width: 100%;
+    }
+
+    .service li a {
+        width: 100%;
+        padding-top: 50px;
+        display: inline-flex;
     }
 
     .service h4 {
-        width: 90%;
+        width: 80%;
         color: #FFFF;
-        padding-left: 10px;
-        padding-top: 50px;
         font-size: 13px;
-    }
-
-    .service i {
-        position: relative;
-        left: 40px;
-        top: 45%;
+        margin-bottom: 0;;
     }
 
     .service img {
@@ -1031,12 +1065,10 @@ footer {
         padding: 10px;
     }
 
-    .service #reform h4,
-    .service #reform i {
-        padding-left: 5px;
-        padding-top: 40px;
-        text-align: left;
+    .service .fas {
+        color: #fff;
     }
+
 
     .voice-container {
         display: flex;
@@ -1044,7 +1076,16 @@ footer {
     }
 
     .questions {
-        margin-bottom: 0;
+        margin-bottom: 45px;
+    }
+
+    .card {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .card span {
+        font-size: 13px;
     }
 
     .mb-copy {
@@ -1082,6 +1123,7 @@ footer {
         margin-left: 0;
         background-color: #f3f3f3;
         margin-bottom: 60px;
+        text-align: center;
     }
 
     .footer-nav {

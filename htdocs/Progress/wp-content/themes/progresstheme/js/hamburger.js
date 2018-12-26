@@ -10,6 +10,6 @@
     $(this).removeClass('move');
     $(this)
       .next()
-      .slideToggle('normal');
+      .slideToggle('slow');
   });
 })(jQuery);

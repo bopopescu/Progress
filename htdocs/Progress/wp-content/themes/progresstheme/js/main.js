@@ -1,4 +1,25 @@
 (function($) {
+  $('.line').css('opacity', '0');
+  $(window).scroll(function() {
+    $('.line').each(function() {
+      var linePos = $(this).offset().top;
+      var scroll = $(window).scrollTop();
+      var windowHeight = $(window).height();
+      console.log(scroll);
+      if (scroll > linePos - windowHeight + windowHeight / 5) {
+        $(this).css({
+          opacity: '1',
+          width: '100px',
+        });
+      } else {
+        $(this).css({
+          width: '2px',
+        });
+      }
+    });
+  });
+
+  // スライダーアニメーション
   var setElm = $('.slide'),
     slideSpeed = 3000;
 
