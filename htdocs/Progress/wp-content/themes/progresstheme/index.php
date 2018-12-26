@@ -5,7 +5,7 @@
     <section id="content" class="clearfix">
         <section id="top-image">
             <div class="up-top">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/top_img.jpg" alt="">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/top_img.jpg" alt="" class="pc-top">
             </div>
             <div class="slide">
                 <ul>
@@ -22,7 +22,7 @@
             <div>
                 <img src="<?php echo get_template_directory_uri(); ?>/img/top_img_sp.jpg" alt="">
             </div>
-            <!-- <div class="slide">
+            <div class="slide">
                 <ul>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide1_sp.jpg" alt=""></li>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide2_sp.jpg" alt=""></li>
@@ -31,7 +31,7 @@
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide5_sp.jpg" alt=""></li>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide6_sp.jpg" alt=""></li>
                 </ul>
-            </div> -->
+            </div>
         </section>
         <section class="table-map">
             <h3 id="map-title">対応エリア</h3>
@@ -57,11 +57,13 @@
 
         <section class="competitive-rates">
             <div class="section-title">
-                <h1>激<span class="char-color">安</span><span class="sm-char">の理由</span></h1>
+                <div class="title">
+                    <h1>激<span class="char-color">安</span><span class="sm-char">の理由</span></h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
                 <span>competitive rates</span>
+                <span class="line"></span>
             </div>
-            <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
-            
             <div class="competitive-comments">
                 <ul>
                     <li>
@@ -106,7 +108,7 @@
                     <img src="<?php echo get_template_directory_uri(); ?>/img/character02_SP.png" alt="">
                 </span>
                 <span>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/character01_SP.png" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/character01_SP.png" alt="" id="progress-char">
                 </span>
                 <span>
                     <img src="<?php echo get_template_directory_uri(); ?>/img/character03_SP.png" alt="">
@@ -115,7 +117,7 @@
             <div class="circle-rate">
                 <div>
                     <p>どうしてもリサイクル<br>
-                        できない約２割の不要<br>
+                        できない約3割の不要<br>
                         品のみ処理工場で適切<br>
                         に処理しています。
                     </p>
@@ -135,10 +137,13 @@
 
         <section class="flow">
             <div class="section-title">
-                <h1>不<span class="char-color">用</span>品<span class="sm-char">回収の流れ</span></h1>
+                <div class="title">
+                    <h1>不<span class="char-color">用</span>品<span class="sm-char">回収の流れ</span></h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
                 <span>flow</span>
+                <span class="line"></span>
             </div>
-            <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
             <div class="flow-img-pc">
                 <img src="<?php echo get_template_directory_uri(); ?>/img/step.png" alt="">
             </div>
@@ -174,10 +179,13 @@
 
         <section class="reason">
             <div class="section-title">
-                <h1>リングが<span class="char-color">選</span>ばれる<span class="sm-char">理由</span></h1>
+                <div class="title">
+                    <h1>リングが<span class="char-color">選</span>ばれる<span class="sm-char">理由</span></h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
                 <span>reason</span>
+                <span class="line"></span>
             </div>
-            <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
             <div class="reason-describe">
                 <div class="r-left">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/reason02.jpg" alt="" id="r-pic-left">
@@ -310,10 +318,13 @@
         <section class="example"> 
             <!-- phpのブログ処理 -->
             <div class="section-title">
-                <h1>買取事<span class="char-color">例</span><span class="sm-char">の紹介</span></h1>
+                <div class="title">
+                    <h1>買取事<span class="char-color">例</span><span class="sm-char">の紹介</span></h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
                 <span>example</span>
+                <span class="line"></span>
             </div>
-            <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
             <div class="example-sales">
                 <div class="example-prossece">
                     <div>
@@ -353,12 +364,15 @@
 
         <section class="items">
             <div class="section-title">
-                <h1>買取<span class="char-color">可</span>能品目</h1>
+                <div class="title">
+                    <h1>買取<span class="char-color">可</span>能品目</h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
                 <span>items</span>
+                <span class="line"></span>
             </div>
-            <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
             <div class="sale-items">
-                <table class="table-items" bordercolor="rgb(145, 177, 54)">
+                <table class="table-items" bordercolor="rgb(145, 177, 54)" border="1">
                     <tr>
                         <th>
                             <p>電化製品</p>
@@ -408,6 +422,14 @@
             </div>
         </section>
         <section class="service"> 
+            <div class="section-title">
+                <div class="title">
+                    <h1>各<span class="char-color">種</span>サービス</h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
+                <span>items</span>
+                <span class="line"></span>
+            </div>
             <ul>
                 <li class="light">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/service2_SP.png" alt="">
@@ -455,52 +477,39 @@
         </section>
         <section class="voice">
             <div class="section-title">
-                <h1>お客様<span class="sm-char">の<span class="char-color">声</span></span></h1>
+                <div class="title">
+                    <h1>お客様<span class="sm-char">の<span class="char-color">声</span></span></h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
                 <span>voice</span>
+                <span class="line"></span>
             </div>
-            <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
             <div class="voice-container">
                 <div class="customer-voice">
                     <div>
                         <img src="<?php echo get_template_directory_uri(); ?>/img/lv.jpg" alt="">
                         <h1>S様</h1>
-                        <span>
-                            電話も丁寧な対応で気持ち良く、安心してお願<br>
-                            いできました。色々な要望にも丁寧に対応して<br>
-                            もらって、スタッフさんも明るく笑顔で感じが<br>
-                            良かったです。
-                        </span>
-            
                     </div>
                 </div>
                 <div class="customer-voice">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/lv.jpg" alt="">
                     <h1>S様</h1>
-                    <span>
-                        電話も丁寧な対応で気持ち良く、安心してお願<br>
-                        いできました。色々な要望にも丁寧に対応して<br>
-                        もらって、スタッフさんも明るく笑顔で感じが<br>
-                        良かったです。
-                    </span>
                 </div>
                 <div class="customer-voice">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/lv.jpg" alt="">
                     <h1>S様</h1>
-                    <span>
-                        電話も丁寧な対応で気持ち良く、安心してお願<br>
-                        いできました。色々な要望にも丁寧に対応して<br>
-                        もらって、スタッフさんも明るく笑顔で感じが<br>
-                        良かったです。
-                    </span>
                 </div>
             </div>
         </section>
         <section class="questions">
             <div class="section-title">
-                <h1>よくあるご<span class="char-color">質</span>問</h1>
+                <div class="title">
+                    <h1>よくあるご<span class="char-color">質</span>問</h1>
+                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                </div>
                 <p>question</p>
+                <span class="line"></span>
             </div>
-            <!-- <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a> -->
             <table>
                 <tbody class="question-table">
                     <tr>

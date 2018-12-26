@@ -72,6 +72,9 @@
                     </li>
                 </ul>
             </div>
+            <div id="staff-img">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/staff01.png" alt="" id="staff">
+            </div>
             <div class="mb-copy">
                 <span>
                     Copyright &copy;<?php bloginfo( 'name' ); ?> All Rights Reserved.
@@ -82,9 +85,6 @@
                     <i class="fas fa-angle-up fa-3x"></i>
                 </a>
                 <p>先頭に戻る</p>
-            </div>
-            <div id="footer-img">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/kari.png" alt="写真">
             </div>
         </section>
         <section id="f-text">
