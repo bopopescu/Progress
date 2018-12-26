@@ -60,7 +60,7 @@ h1 {
 }
 
 .line {
-    width: 5px;
+    width: 0px;
     height: 5px;
     background-color: rgb(145, 177, 54);
     transition: .5s;
@@ -117,7 +117,6 @@ header {
 
 .slide {
     width: 100%;
-    height: 300px;
     text-align: left;
     position: relative;
 }
@@ -151,6 +150,7 @@ header {
     width: 90%;
     margin: 0 auto;
     margin-left: 10%;
+    position: relative;
 }
 /* ======================================================= */
 #side-nav {
@@ -210,12 +210,16 @@ header {
 
 /* ==================================================- */
 
+.ratio:before {
+    content: "";
+    display: block;
+    padding-top: 40%;
+}
 
 .table-map {
-    height: auto;
     position: absolute;
-    width: 90%;
-    margin-top: 800px;
+    left: 0;
+    right: 0;
 }
 
 #map-title {
@@ -269,7 +273,8 @@ header {
 /* ==================================================== */
 
 .competitive-rates {
-    margin-top: 800px;
+    margin-top: 700px;
+    position: relative;
 }
 
 .character-image>span {
@@ -349,8 +354,47 @@ header {
 
 /* ================================================ */
 
-.flow-img::after {
-    content: '電話かメールでお気軽にお問い合わせください';
+.flow-img-pc {
+    width: 90%;
+    margin-left: 10%;
+}
+
+.flow-img-pc div{
+    display: flex;
+    justify-content: center;
+}
+
+.flow-img-pc ul {
+    padding: 0;
+}
+
+.flow-img-pc>div>ul>li:nth-child(1) img{
+    margin-left: -330px;
+}
+
+.flow-img-pc>div>ul>li:nth-child(2) img{
+    margin-left: -300px;
+    margin-top: 20px;
+}
+
+.flow-img-pc>div>ul>li:nth-child(3) img{
+    margin-left: -50px;
+    margin-top: 20px;
+}
+
+.flow-img-pc>div>ul>li:nth-child(4) img{
+    margin-left: 0;
+    margin-top: 35px;
+}
+
+.flow-img-pc>div>ul>li:nth-child(5) img{
+    margin-left: -55px;
+    margin-top: 40px;
+}
+
+.flow-img-pc>div>ul>li:nth-child(6) img{
+    margin-left: -360px;
+    margin-top: 40px;
 }
 /* ================================================ */
 

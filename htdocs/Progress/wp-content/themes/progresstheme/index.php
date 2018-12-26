@@ -33,7 +33,7 @@
                 </ul>
             </div>
         </section>
-        <section class="table-map">
+        <section class="table-map ratio">
             <h3 id="map-title">対応エリア</h3>
             
             <div class="map-describe">
@@ -145,7 +145,30 @@
                 <span class="line"></span>
             </div>
             <div class="flow-img-pc">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/step.png" alt="">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/step.png" alt="">
+                    <ul>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/1.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/2.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/3.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/4.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/5.png" alt="">
+                        </li>
+                        <li>
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/6.png" alt="">
+                        </li>
+
+                    </ul>
+                </div>
             </div>
             <div class="flow-img-sp">
                 <div>
