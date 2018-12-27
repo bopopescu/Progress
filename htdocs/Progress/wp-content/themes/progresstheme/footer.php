@@ -2,27 +2,30 @@
         <section　class="footerItem">
             <div class="list-container">
                 <ul class="f-contents">
-                    <h2>サービスについて</h2>
-                    <li>
-                        <a href="">選ばれる理由</a>
-                    </li>
+                    <h2>サービス一覧</h2>
                     <li>
                         <a href="">不用品サービス</a>
+                    </li>
+                    <li>
+                        <a href="">買取サービス</a>
                     </li>
                     <li>
                         <a href="">リフォーム・ハウスクリーニング</a>
                     </li>
                     <li>
-                        <a href="">引っ越しサービス</a>
+                        <a href="">引越しサービス</a>
+                    </li>
+                    <li>
+                        <a href="">不動産売却サービス</a>
+                    </li>
+                    <li>
+                        <a href="">解体工事サービス</a>
                     </li>
                     <li>
                         <a href="">家具組立・移動サービス</a>
                     </li>
                     <li>
-                        <a href="">不動産売却・解体工事</a>
-                    </li>
-                    <li>
-                        <a href="">各種クレジットカード<br>ご利用いただけます</a>
+                        <a href="">遺品整理</a>
                     </li>
                 </ul>
             </div>
@@ -30,22 +33,16 @@
                 <ul class="f-contents">
                     <h2>不用品について</h2>
                     <li>
-                        <a href="">買取対応品目一覧</a>
+                        <a href="">対応品目一覧</a>
                     </li>
                     <li>
                         <a href="">サービスの流れ</a>
                     </li>
                     <li>
-                        <a href="">法人のお客様</a>
-                    </li>
-                    <li>
                         <a href="">不用品の行方</a>
                     </li>
                     <li>
-                        <a href="">お客様の声</a>
-                    </li>
-                    <li>
-                        <a href="">買取事例のご紹介</a>
+                        <a href="">法人のお客様</a>
                     </li>
                     <li>
                         <a href="">よくあるご質問</a>
