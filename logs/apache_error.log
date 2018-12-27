@@ -746,3 +746,8 @@
 [Wed Dec 26 10:10:20 2018] [notice] Digest: done
 [Wed Dec 26 10:10:20 2018] [notice] FastCGI: process manager initialized (pid 96156)
 [Wed Dec 26 10:10:20 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Dec 26 17:57:48 2018] [notice] caught SIGTERM, shutting down
+[Thu Dec 27 10:09:18 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Dec 27 10:09:18 2018] [notice] Digest: done
+[Thu Dec 27 10:09:18 2018] [notice] FastCGI: process manager initialized (pid 6378)
+[Thu Dec 27 10:09:18 2018] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations

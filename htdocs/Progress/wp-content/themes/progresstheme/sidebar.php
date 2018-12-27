@@ -49,7 +49,7 @@
         </li>
         <li>
             <a href="<?php echo home_url(); ?>">
-                <h4>各種クレジットカード<br>ご利用いただけます</h4>
+                <h4>各種クレジットカードご利用いただけます</h4>
                 <img src="<?php echo get_template_directory_uri(); ?>/img/card.png" alt="">
             </a>
         </li>

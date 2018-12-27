@@ -17,9 +17,16 @@
         });
       }
     });
-  });
 
+    // $('.slider').slick({
+    //   accessibility: true,
+    //   autoplay: true,
+    //   autoplaySpeed: 3000,
+    //   speed: 400,
+    // });
+  });
   // スライダーアニメーション
+  // 画面サイズによる条件分岐　要
   var setElm = $('.slide'),
     slideSpeed = 3000;
 
