@@ -18,11 +18,11 @@ Version: 1.0
     display: none;
 }
 
-.flow-container-sp {
+.container-sp {
     display: none;
 }
 
-.flow-container {
+.container {
     position: relative;
     float: left;
     width: 90%;
@@ -30,13 +30,13 @@ Version: 1.0
     margin-left: 10%;
 }
 
-.flow-container .section-title {
+.container .section-title {
     float: left;
     text-align: left;
     margin: 0;
 }
-
-.flow-container .section-title p {
+  
+.container .section-title p {
     margin: 0;
 }
 
@@ -48,7 +48,6 @@ Version: 1.0
     position: relative;
     margin: 0 auto;
     width: 90%;
-    margin-left: 10%;
 }
 
 .list-pc:nth-child(1) {
@@ -62,6 +61,10 @@ Version: 1.0
     display: flex;
     flex-direction: row;
     margin-bottom: 200px;
+    padding: 90px 70px;
+    margin: 15px auto;
+    border: 2px solid  rgb(145, 177, 54);
+    border-radius: 10px;
 }
 
 .list-pc .step {
@@ -70,13 +73,13 @@ Version: 1.0
 }
 
 .step-l {
-    width: 45%;
+    width: 50%;
     height: auto;
     padding-left: 190px;
 }
 
 .step-r {
-    width: 45%;
+    width: 50%;
     height: auto;
     padding-right: 190px;
 }
@@ -104,17 +107,18 @@ Version: 1.0
         display: flex;
     }
 
-    .flow-container {
+    .container {
         display: none;
     }
 
-    .flow-container-sp {
-        display: block;
-        width: 90%;
-        margin: 0 auto;
+    .container-sp {
+      master
+      display: block;
+      width: 90%;
+      margin: 0 auto;
     }
-
-    .flow-container-sp .section-title .title{
+      
+    .container-sp .section-title .title{
         margin: 0 auto;
     }
     

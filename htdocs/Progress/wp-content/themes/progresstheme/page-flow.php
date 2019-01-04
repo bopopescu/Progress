@@ -13,7 +13,7 @@ get_header();
     <section class="top-anim-sp">
         <img src="<?php echo get_template_directory_uri(); ?>/img/flow/speedy_sp.png" alt="top-img">
     </section>
-    <section class="flow-container">
+    <section class="container">
         <div class="section-title">
             <h3 class="char-color">flow</h3>
             <div class="title">
@@ -108,7 +108,7 @@ get_header();
             </div>
         </section>
     </section>
-    <section class="flow-container-sp">
+    <section class="container-sp">
         <div class="section-title">
             <div class="title">
                 <h1>不<span class="char-color">用</span>品<span class="sm-char">回収の流れ</span></h1>
