@@ -22,7 +22,7 @@
             <div>
                 <img src="<?php echo get_template_directory_uri(); ?>/img/top_img_sp.jpg" alt="">
             </div>
-            <div class="slide">
+            <div class="slide-sp">
                 <ul>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide1_sp.jpg" alt=""></li>
                     <li><img src="<?php echo get_template_directory_uri(); ?>/img/slide2_sp.jpg" alt=""></li>
@@ -59,7 +59,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>激<span class="char-color">安</span><span class="sm-char">の理由</span></h1>
-                    <a href="<?php echo home_url(); ?>/competitive"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/competitive'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>competitive rates</span>
                 <span class="line"></span>
@@ -139,7 +139,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>不<span class="char-color">用</span>品<span class="sm-char">回収の流れ</span></h1>
-                    <a href="<?php echo home_url(); ?>/flow"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/flow'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>flow</span>
                 <span class="line"></span>
@@ -204,7 +204,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>リングが<span class="char-color">選</span>ばれる<span class="sm-char">理由</span></h1>
-                    <a href="<?php echo home_url(); ?>/reason"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/reason'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>reason</span>
                 <span class="line"></span>
@@ -343,7 +343,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>買取事<span class="char-color">例</span><span class="sm-char">の紹介</span></h1>
-                    <a href="<?php echo home_url(); ?>/example"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/example'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>example</span>
                 <span class="line"></span>
@@ -389,7 +389,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>買取<span class="char-color">可</span>能品目</h1>
-                    <a href="<?php echo home_url(); ?>/competitive"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/items'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>items</span>
                 <span class="line"></span>
@@ -448,7 +448,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>各<span class="char-color">種</span>サービス</h1>
-                    <a href="<?php echo home_url(); ?>/service"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/competitive'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>items</span>
                 <span class="line"></span>
@@ -502,7 +502,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>お客様<span class="sm-char">の<span class="char-color">声</span></span></h1>
-                    <a href=""><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/voice'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>voice</span>
                 <span class="line"></span>
@@ -528,7 +528,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>よくあるご<span class="char-color">質</span>問</h1>
-                    <a href="<?php echo home_url(); ?>/questions"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
+                    <a href="<?php echo home_url('/question'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <p>question</p>
                 <span class="line"></span>
@@ -579,9 +579,15 @@
             <img src="<?php echo get_template_directory_uri(); ?>/img/card_sp.png" alt="">
         </section>
         <section class="banner">
-            <ul>
+            <ul class="slider">
                 <li>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/card_sp.png" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/banner_mitsui.jpg" alt="">
+                </li>
+                <li>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/banner_STAFF.jpg" alt="">
+                </li>
+                <li>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/banner_VOICE.jpg" alt="">
                 </li>
             </ul>
         </section>

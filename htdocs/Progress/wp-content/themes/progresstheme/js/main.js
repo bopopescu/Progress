@@ -5,7 +5,6 @@
       var linePos = $(this).offset().top;
       var scroll = $(window).scrollTop();
       var windowHeight = $(window).height();
-      console.log(scroll);
       if (scroll > linePos - windowHeight + windowHeight / 5) {
         $(this).css({
           opacity: '1',
@@ -17,9 +16,16 @@
         });
       }
     });
-  });
 
+    // $('.slider').slick({
+    //   accessibility: true,
+    //   autoplay: true,
+    //   autoplaySpeed: 3000,
+    //   speed: 400,
+    // });
+  });
   // スライダーアニメーション
+  // 画面サイズによる条件分岐　要
   var setElm = $('.slide'),
     slideSpeed = 3000;
 
