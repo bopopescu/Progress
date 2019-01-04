@@ -36,7 +36,7 @@ Version: 1.0
     text-align: left;
     margin: 0;
 }
-
+  
 .container .section-title p {
     margin: 0;
 }
@@ -56,15 +56,22 @@ Version: 1.0
 }
 
 .list-pc {
+    width: 90%;
+    height: auto;
     float: left;
     display: flex;
     flex-direction: row;
     margin-bottom: 200px;
     padding: 90px 70px;
     margin: 15px auto;
+<<<<<<< HEAD
     border: 4px solid  rgb(145, 177, 54);
     border-radius: 20px;
     
+=======
+    border: 2px solid  rgb(145, 177, 54);
+    border-radius: 10px;
+>>>>>>> dfd4c4604505ef7146892919734e1522373ee777
 }
 
 .list-pc .step {
@@ -112,11 +119,12 @@ Version: 1.0
     }
 
     .container-sp {
-        display: block;
-        width: 90%;
-        margin: 0 auto;
+      master
+      display: block;
+      width: 90%;
+      margin: 0 auto;
     }
-
+      
     .container-sp .section-title .title{
         margin: 0 auto;
     }
@@ -143,4 +151,3 @@ img {
     max-width: 100%;
     height: auto;
 }
-

@@ -68,8 +68,8 @@ h1 {
     margin: 30px auto;
 }
 
-h4 {
-    margin-top: 0;
+#side-nav h4 {
+    margin: 0;
     color: rgb(145, 177, 54);
 }
 
@@ -87,7 +87,7 @@ h4 {
 
 header {
     width: 100%;
-    left: 12%;
+    left: 10%;
     float: right;
 }
 
@@ -122,6 +122,7 @@ header {
 }
 
 .slide ul{
+    max-width: 100%;
     margin: 0 auto;
     padding: 0;
     display: inline-flex;
@@ -175,7 +176,7 @@ header {
 }
 
 #side-nav ul li {
-    padding: 5px 0 0 5px;
+    padding: 10px 0;
     max-height: 80px;
     text-align: left;
     list-style: none;
@@ -188,7 +189,6 @@ header {
 }
 
 #side-nav ul li h4 {
-    font-size: 15px;
     color: rgb(145, 177, 54);
 }
 
@@ -234,7 +234,6 @@ header {
 
 .map-describe {
     width: 90%;
-    min-height: 600px;
     display: inline-flex;
     border: solid 2px rgb(145, 177, 54);
     border-radius: 20px;
@@ -273,8 +272,8 @@ header {
 /* ==================================================== */
 
 .competitive-rates {
-    margin-top: 700px;
     position: relative;
+    margin-top: 50%;
 }
 
 .character-image>span {
@@ -308,7 +307,6 @@ header {
 .circle-rate div p {
     position: relative;
     width: 190px;
-    /* height: auto; */
     margin: 0;
     padding-top: 100px;
     padding-left: 80px;
@@ -669,10 +667,6 @@ footer {
     margin: 0 30px;
 }
 
-/* .fas {
-    color: #f3f3f3;
-} */
-
 .competitive-items-sp,
 .flow-img-sp {
     display: none;
@@ -696,6 +690,10 @@ footer {
 
     a:hover {
         text-decoration: none;
+    }
+
+    .fa-3x {
+        font-size: 2em;
     }
 
     .mb-nav {
@@ -776,10 +774,6 @@ footer {
         padding-top: 20px;
     }
 
-    .map-describe {
-        min-height: 300px;
-    }
-
     #map-title {
         width: 120px;
         height: 20px;
@@ -817,6 +811,10 @@ footer {
         margin-left: 0;
     }
 
+    #top-image .slide ul {
+        display: none;
+    }
+
     h1 {
         font-size: 30px;
     }
@@ -835,6 +833,7 @@ footer {
     .example,
     .voice,
     .area,
+    .service,
     .questions{
         width: 100%;
         margin-left: 0;
@@ -843,9 +842,14 @@ footer {
     .table-map {
         margin: 0 auto;
         width: 100%;
-        top: 300px;
         left: 0;
         right: 0;
+    }
+
+    .ratio:before {
+        content: "";
+        display: block;
+        padding-top: 73%;
     }
 
     .ja-map {
@@ -867,7 +871,8 @@ footer {
     }
 
     .competitive-rates {
-        margin-top: 0;
+        margin-top: 200px;
+        position: relative;
     }
 
     .competitive-items-sp {
@@ -909,10 +914,6 @@ footer {
         height: auto;
         margin: 0 10px;
     }
-
-    /* #progress-char {
-        width: calc(100%/3);
-    } */
 
     .sp-circle {
         display: inline;
@@ -1069,8 +1070,6 @@ footer {
     }
 
     .service {
-        width: 100%;
-        margin-left: 0;
         display: flex;
         flex-direction: column;
     }
@@ -1112,7 +1111,6 @@ footer {
     .service .fas {
         color: #fff;
     }
-
 
     .voice-container {
         display: flex;
