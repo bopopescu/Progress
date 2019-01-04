@@ -20,9 +20,6 @@ get_header();
                 り、お電話での対応から、現地での作業時の言葉使いまで教育し、サービスでもナンバーワンを目指しております！
             </p>
         </div>
-        <div>
-
-        </div>
         <section class="flow-contents">
             <div class="list-pc">
                 <div>

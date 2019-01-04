@@ -7,21 +7,15 @@
     </div>
     <ul>
         <li>
-            <a href="<?php echo home_url(); ?>">
+            <a href="<?php echo home_url('/reason'); ?>">
                 <span>当社の強み</span>
                 <h4>選ばれる理由</h4>
             </a>
         </li>
         <li>
-            <a href="<?php echo home_url(); ?>">
+            <a href="<?php echo home_url('/service'); ?>">
                 <span>業界最安値</span>
                 <h4>不用品サービス</h4>
-            </a>
-        </li>
-        <li>
-            <a href="<?php echo home_url(); ?>">
-                <span>幅広い品目設定</span>
-                <h4>買取サービス</h4>
             </a>
         </li>
         <li>
@@ -44,7 +38,7 @@
         <li>
             <a href="<?php echo home_url(); ?>">
                 <span>プロにおまかせ</span>
-                <h4>遺品整理</h4>
+                <h4>不動産売却・解体工事</h4>
             </a>
         </li>
         <li>
