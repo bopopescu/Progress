@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* < !--エンコードがUTF-8であることを指定--> */
+/*
+/*
+Theme Name: Progress-Project
+Author: jum2948
+Description: プロジェクトのコーポレートサイト
+Version: 1.0
+*/
+
+.multi {
+    width: 100%;
+    clear: both;
+    margin: 0 auto;
+    
+}
+
+.multi-column {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.multi-list {
+    max-width: 30%;
+    margin: 15px auto;
+    padding: 80px;
+    border-radius: 20px;
+}
+
+.multi-list:nth-child(2),
+.multi-list:nth-child(3),
+.multi-list:nth-child(6),
+.multi-list:nth-child(7){
+    border: 4px solid  #42672a;
+}
+
+.multi-list:nth-child(2) h2,
+.multi-list:nth-child(3) h2,
+.multi-list:nth-child(6) h2,
+.multi-list:nth-child(7) h2 {
+    color: #42672a;
+}
+
+.multi-list:nth-child(1),
+.multi-list:nth-child(4),
+.multi-list:nth-child(5),
+.multi-list:nth-child(8) {
+    border: 4px solid  rgb(145, 177, 54);
+}
+
+.multi-list:nth-child(1) h2,
+.multi-list:nth-child(4) h2,
+.multi-list:nth-child(5) h2,
+.multi-list:nth-child(8) h2{
+    color: rgb(145, 177, 54);
+}
+
+.multi-list p {
+    text-align: left;
+}
+
+.top-title {
+    margin-top: 400px;
+}
+
+.list-title h2 {
+    margin: 120px 0;
+}

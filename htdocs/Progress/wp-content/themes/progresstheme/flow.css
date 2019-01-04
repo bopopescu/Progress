@@ -28,6 +28,7 @@ Version: 1.0
     width: 90%;
     margin: 0 auto;
     margin-left: 10%;
+    margin-bottom: 400px;
 }
 
 .container .section-title {
@@ -63,8 +64,14 @@ Version: 1.0
     margin-bottom: 200px;
     padding: 90px 70px;
     margin: 15px auto;
+<<<<<<< HEAD
+    border: 4px solid  rgb(145, 177, 54);
+    border-radius: 20px;
+    
+=======
     border: 2px solid  rgb(145, 177, 54);
     border-radius: 10px;
+>>>>>>> dfd4c4604505ef7146892919734e1522373ee777
 }
 
 .list-pc .step {
