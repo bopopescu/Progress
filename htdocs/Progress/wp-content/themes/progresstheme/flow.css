@@ -8,6 +8,85 @@ Description: プロジェクトのコーポレートサイト
 Version: 1.0
 */
 
+.top-anim {
+    position: absolute;
+    top: 75px;
+    right: 120px;
+}
+
+.top-anim-sp {
+    display: none;
+}
+
+.flow-container-sp {
+    display: none;
+}
+
+.flow-container {
+    position: relative;
+    float: left;
+    width: 90%;
+    margin: 0 auto;
+    margin-left: 10%;
+}
+
+.flow-container .section-title {
+    float: left;
+    text-align: left;
+    margin: 0;
+}
+
+.flow-container .section-title p {
+    margin: 0;
+}
+
+.section-title {
+    display: block;
+}
+
+.flow-contents {
+    position: relative;
+    margin: 0 auto;
+    width: 90%;
+    margin-left: 10%;
+}
+
+.list-pc:nth-child(1) {
+    margin-top: 200px;
+}
+
+.list-pc {
+    width: 90%;
+    height: auto;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 200px;
+}
+
+.list-pc .step {
+    display: flex;
+    flex-direction: column;
+}
+
+.step-l {
+    width: 45%;
+    height: auto;
+    padding-left: 190px;
+}
+
+.step-r {
+    width: 45%;
+    height: auto;
+    padding-right: 190px;
+}
+
+
+.step img {
+    height: auto;
+    margin: 0 auto;
+}
+
 .list span {
     font-weight: bold;
     font-size: 3vh;
@@ -17,8 +96,25 @@ Version: 1.0
 
 @media screen and (max-width: 480px) {
 
-    .container {
+    .top-anim {
+        display: none;
+    }
+
+    .top-anim-sp {
+        display: flex;
+    }
+
+    .flow-container {
+        display: none;
+    }
+
+    .flow-container-sp {
+        display: block;
         width: 90%;
+        margin: 0 auto;
+    }
+
+    .flow-container-sp .section-title .title{
         margin: 0 auto;
     }
     
@@ -35,7 +131,7 @@ Version: 1.0
     }
 
     .icon {
-        width: 15%;
+        max-width: 15%;
         margin: 0 auto;
     }
 }

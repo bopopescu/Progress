@@ -631,3 +631,15 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php on line 1
+[02-Jan-2019 10:47:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php on line 1
+[02-Jan-2019 10:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php on line 1
+[02-Jan-2019 10:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php on line 1

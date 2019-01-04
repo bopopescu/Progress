@@ -5,7 +5,6 @@
       var linePos = $(this).offset().top;
       var scroll = $(window).scrollTop();
       var windowHeight = $(window).height();
-      console.log(scroll);
       if (scroll > linePos - windowHeight + windowHeight / 5) {
         $(this).css({
           opacity: '1',
