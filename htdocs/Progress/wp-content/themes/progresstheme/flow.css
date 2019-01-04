@@ -1,0 +1,145 @@
+@charset "utf-8";
+/* < !--エンコードがUTF-8であることを指定--> */
+/*
+/*
+Theme Name: Progress-Project
+Author: jum2948
+Description: プロジェクトのコーポレートサイト
+Version: 1.0
+*/
+
+.top-anim {
+    position: absolute;
+    top: 75px;
+    right: 120px;
+}
+
+.top-anim-sp {
+    display: none;
+}
+
+.container-sp {
+    display: none;
+}
+
+.container {
+    position: relative;
+    float: left;
+    width: 90%;
+    margin: 0 auto;
+    margin-left: 10%;
+}
+
+.container .section-title {
+    float: left;
+    text-align: left;
+    margin: 0;
+}
+
+.container .section-title p {
+    margin: 0;
+}
+
+.section-title {
+    display: block;
+}
+
+.flow-contents {
+    position: relative;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.list-pc:nth-child(1) {
+    margin-top: 200px;
+}
+
+.list-pc {
+    float: left;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 200px;
+    padding: 90px 70px;
+    margin: 15px auto;
+    border: 2px solid  rgb(145, 177, 54);
+    border-radius: 10px;
+    
+}
+
+.list-pc .step {
+    display: flex;
+    flex-direction: column;
+}
+
+.step-l {
+    width: 50%;
+    height: auto;
+    padding-left: 190px;
+}
+
+.step-r {
+    width: 50%;
+    height: auto;
+    padding-right: 190px;
+}
+
+
+.step img {
+    height: auto;
+    margin: 0 auto;
+}
+
+.list span {
+    font-weight: bold;
+    font-size: 3vh;
+    color: rgb(145, 177, 54);
+}
+
+
+@media screen and (max-width: 480px) {
+
+    .top-anim {
+        display: none;
+    }
+
+    .top-anim-sp {
+        display: flex;
+    }
+
+    .container {
+        display: none;
+    }
+
+    .container-sp {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .container-sp .section-title .title{
+        margin: 0 auto;
+    }
+    
+    .list {
+        display: flex;
+        flex-direction: column;
+        margin: 15px auto;
+        border: 2px solid  rgb(145, 177, 54);
+        border-radius: 10px;
+    }
+
+    .list div {
+        padding: 30px 20px; 
+    }
+
+    .icon {
+        max-width: 15%;
+        margin: 0 auto;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+

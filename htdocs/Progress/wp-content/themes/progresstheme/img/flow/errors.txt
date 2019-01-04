@@ -1,0 +1,17 @@
+[11/27/2018, 11:24:36 AM] layer "tel_side.png": Duplicate path: tel_side.png
+[11/27/2018, 11:24:36 AM] layer "step1img.jpg": Duplicate path: step1img.jpg
+[11/27/2018, 11:24:36 AM] layer "tel_num.png": Duplicate path: tel_num.png
+[11/27/2018, 11:24:36 AM] layer "clipboard.png": Duplicate path: clipboard.png
+[11/27/2018, 11:24:36 AM] layer "step2.png": Duplicate path: step2.png
+[11/27/2018, 11:24:36 AM] layer "step2img.jpg": Duplicate path: step2img.jpg
+[11/27/2018, 11:24:36 AM] layer "baggage.png": Duplicate path: baggage.png
+[11/27/2018, 11:24:36 AM] layer "step3.png": Duplicate path: step3.png
+[11/27/2018, 11:24:36 AM] layer "step3img.jpg": Duplicate path: step3img.jpg
+[11/27/2018, 11:24:36 AM] layer "step4.png": Duplicate path: step4.png
+[11/27/2018, 11:24:36 AM] layer "housekeeping.png": Duplicate path: housekeeping.png
+[11/27/2018, 11:24:36 AM] layer "step5.png": Duplicate path: step5.png
+[11/27/2018, 11:24:36 AM] layer "purse.png": Duplicate path: purse.png
+[11/27/2018, 11:24:36 AM] layer "step6.png": Duplicate path: step6.png
+[11/27/2018, 11:24:36 AM] layer "recycling.png": Duplicate path: recycling.png
+[11/27/2018, 11:24:36 AM] layer "email_side.png": Duplicate path: email_side.png
+[11/27/2018, 11:24:36 AM] layer "LINE_side.png": Duplicate path: LINE_side.png

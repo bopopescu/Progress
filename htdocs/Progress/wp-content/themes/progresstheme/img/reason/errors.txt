@@ -1,0 +1,7 @@
+[12/7/2018, 11:48:40 AM] layer "tel_side.png": Duplicate path: tel_side.png
+[12/7/2018, 11:48:40 AM] layer "point.png": Duplicate path: point.png
+[12/7/2018, 11:48:40 AM] layer "email_side.png": Duplicate path: email_side.png
+[12/7/2018, 11:48:40 AM] layer "hinnmoku.png": Duplicate path: hinnmoku.png
+[12/7/2018, 11:48:40 AM] layer "box.png": Duplicate path: box.png
+[12/7/2018, 11:48:40 AM] layer "LINE_side.png": Duplicate path: LINE_side.png
+[12/7/2018, 11:48:40 AM] layer "money_sp.png": Duplicate path: money_sp.png
