@@ -146,8 +146,114 @@ get_header();
             </div>
         </section>
     </section>
+    <!-- ====================================================================== -->
     <section class="container-sp">
-
+        <div class="section-title">
+            <div class="title">
+                <h1>リ<span class="char-color">フ</span>ォーム<br>ハウス<span class="char-color">ク</span>リーニング</h1>
+            </div>
+            <span>reform/housecleaning</span>
+            <span class="line"></span>
+            <h4 class="char-color">不用品引き取り後もサポート</h4>
+        </div>
+        <div class="multi-column-sp" id="reform-sp">
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reform/home.png" alt="" >
+                </div>
+                <h2>リフォーム</h2>
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reform/kitchen1.png" alt="">
+                </div>
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reform/kitchen2.png" alt="">
+                </div>
+                <p>クロスや水回り、外壁などなんでもリフォーム対応いたします！<br>
+                お宅が見違え、リングなら不用品の引き取りと同時にできて、<br>
+                荷物の一時お預かりも好評です！</p>
+            </div>
+            <div class="multi-list-sp">
+                <div class="row">
+                    <div>
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/reform/harikae_sp.jpg" alt="">
+                    </div>
+                    <div>
+                        <h4>フローリング張り替え</h4>
+                        <p>傷ついたフローリングの張り替えもおまかせください。また、和室を洋室に変えることも可能です。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div class="row">
+                    <div>
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/reform/tatami_sp.jpg" alt="">
+                    </div>
+                    <div>
+                        <h4>たたみ・障子・ふすま</h4>
+                        <p>たたみ・障子・ふすまも対応OKです。職人技できっちりしあげます。京間も団地間もおまかせを。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div class="row">
+                    <div>
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/reform/kitchen_sp.jpg" alt="">
+                    </div>
+                    <div>
+                        <h4>キッチンのリフォーム</h4>
+                        <p>キッチンは使い勝手や流行もあり、綺麗にしたい所。収納の問題等もリフォームで解決できます。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div class="row">
+                    <div>
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/reform/harikae_sp.jpg" alt="">
+                    </div>
+                    <div>
+                        <h4>壁紙の張り替え</h4>
+                        <p>「クロスが壊れてこの機に直したい」という方もご連絡を。高機能な壁紙に替えるのもおススメ。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div class="row">
+                    <div>
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/reform/washroom_sp.jpg" alt="">
+                    </div>
+                    <div>
+                        <h4>トイレ・風呂・洗面所</h4>
+                        <p>水回りのリフォームは大変人気です。また、ちょっとした水漏れ等の不具合もご相談ください。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div class="row">
+                    <div>
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/reform/kabe_sp.jpg" alt="">
+                    </div>
+                    <div>
+                        <h4>外壁リフォーム・塗装</h4>
+                        <p>外壁の洗浄や塗装塗り替えなどで家の印象は変わります。また耐震化・断熱化など機能向上もOK。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reform/cleaning-service.png" alt="">
+                </div>
+                <h2>ハウスクリーニング</h2>
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reform/kitchen3_sp.png" alt="">
+                </div>
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/reform/kitchen4_sp.png" alt="">
+                </div>
+                <p>徹底清掃ならリングが参ります。掃除しにくい箇所の汚れも、<br>
+                素人には掃除しにくいエアコン等の汚れも見違えるほど<br>
+                スッキリ綺麗になります。ご希望によりオゾン強力消臭・脱臭も可能です！</p>
+            </div>
+        </div>
     </section>
     <section class="card">
         <span>各種クレジットカードもご利用いただけます</span>

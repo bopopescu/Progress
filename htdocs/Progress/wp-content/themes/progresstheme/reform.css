@@ -52,3 +52,23 @@ Version: 1.0
 .last-item {
     float: left;
 }
+
+@media screen and (max-width: 480px) {
+    #reform-sp .multi-list-sp{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+
+    #reform-sp .multi-list-sp div {
+        margin: 0 auto;
+    }
+
+    #reform-sp .multi-list-sp .row {
+        margin: 0;
+        width: 100%;
+        padding: 5px;
+        font-size: 12px;
+        text-align: left;
+    }
+}
