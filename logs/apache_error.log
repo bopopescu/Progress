@@ -764,3 +764,39 @@
 [Thu Jan 03 00:08:17 2019] [notice] Digest: done
 [Thu Jan 03 00:08:17 2019] [notice] FastCGI: process manager initialized (pid 43937)
 [Thu Jan 03 00:08:17 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Sat Jan 05 21:28:11 2019] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 05 21:28:11 2019] [notice] Digest: done
+[Sat Jan 05 21:28:11 2019] [notice] FastCGI: process manager initialized (pid 59543)
+[Sat Jan 05 21:28:11 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jan 07 16:55:40 2019] [notice] caught SIGTERM, shutting down
+[Mon Jan 07 16:57:16 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 07 16:57:16 2019] [notice] Digest: done
+[Mon Jan 07 16:57:16 2019] [notice] FastCGI: process manager initialized (pid 554)
+[Mon Jan 07 16:57:16 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jan 07 16:57:57 2019] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/robots.txt
+[Mon Jan 07 17:01:55 2019] [notice] caught SIGTERM, shutting down
+[Mon Jan 07 17:02:08 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 07 17:02:08 2019] [notice] Digest: done
+[Mon Jan 07 17:02:08 2019] [notice] FastCGI: process manager initialized (pid 1188)
+[Mon Jan 07 17:02:08 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jan 07 17:04:16 2019] [notice] caught SIGTERM, shutting down
+[Mon Jan 07 17:04:33 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 07 17:04:33 2019] [notice] Digest: done
+[Mon Jan 07 17:04:33 2019] [notice] FastCGI: process manager initialized (pid 1487)
+[Mon Jan 07 17:04:33 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jan 07 17:06:19 2019] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8080/MAMP/index.php?language=English
+[Mon Jan 07 17:11:21 2019] [notice] caught SIGTERM, shutting down
+[Mon Jan 07 17:13:54 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 07 17:13:54 2019] [notice] Digest: done
+[Mon Jan 07 17:13:54 2019] [notice] FastCGI: process manager initialized (pid 518)
+[Mon Jan 07 17:13:54 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jan 07 17:14:29 2019] [notice] caught SIGTERM, shutting down
+[Mon Jan 07 17:16:07 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 07 17:16:07 2019] [notice] Digest: done
+[Mon Jan 07 17:16:07 2019] [notice] FastCGI: process manager initialized (pid 972)
+[Mon Jan 07 17:16:07 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
+[Mon Jan 07 17:18:21 2019] [notice] caught SIGTERM, shutting down
+[Mon Jan 07 17:18:33 2019] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 07 17:18:33 2019] [notice] Digest: done
+[Mon Jan 07 17:18:33 2019] [notice] FastCGI: process manager initialized (pid 1135)
+[Mon Jan 07 17:18:33 2019] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 configured -- resuming normal operations
