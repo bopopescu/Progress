@@ -7,7 +7,9 @@ Author: jum2948
 Description: プロジェクトのコーポレートサイト
 Version: 1.0
 */
-
+#reform{
+     margin-top: 400px;
+}
 
 #reform .multi-list {
     max-width: 35%;
