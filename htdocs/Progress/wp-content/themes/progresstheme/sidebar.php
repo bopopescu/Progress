@@ -19,7 +19,7 @@
             </a>
         </li>
         <li>
-            <a href="<?php echo home_url(); ?>">
+            <a href="<?php echo home_url('/reform'); ?>">
                 <h4>リフォーム・<br>ハウスクリーニング</h4>
             </a>
         </li>

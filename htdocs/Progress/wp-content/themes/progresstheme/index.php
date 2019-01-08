@@ -389,11 +389,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>買取<span class="char-color">可</span>能品目</h1>
-<<<<<<< HEAD
                     <a href="<?php echo home_url('/competitive'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
-=======
-                    <a href="<?php echo home_url('/items'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
->>>>>>> dfd4c4604505ef7146892919734e1522373ee777
                 </div>
                 <span>items</span>
                 <span class="line"></span>
@@ -452,11 +448,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>各<span class="char-color">種</span>サービス</h1>
-<<<<<<< HEAD
                     <a href="<?php echo home_url('/service'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
-=======
-                    <a href="<?php echo home_url('/competitive'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
->>>>>>> dfd4c4604505ef7146892919734e1522373ee777
                 </div>
                 <span>items</span>
                 <span class="line"></span>
@@ -536,11 +528,7 @@
             <div class="section-title">
                 <div class="title">
                     <h1>よくあるご<span class="char-color">質</span>問</h1>
-<<<<<<< HEAD
                     <a href="<?php echo home_url('/questions'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
-=======
-                    <a href="<?php echo home_url('/question'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
->>>>>>> dfd4c4604505ef7146892919734e1522373ee777
                 </div>
                 <p>question</p>
                 <span class="line"></span>

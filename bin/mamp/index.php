@@ -81,7 +81,7 @@ else
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
 							<li<?php if($page=="home") { ?> class="active"<?php } ?>><a href="index.php?language=<?php echo $language; ?>"><?php echo tr("Start"); ?></a></li>
-							<?php $myWebsite='http://localhost:8080'; if($myWebsite!='') { echo '<li><a class="navbar-brand" href="' . $myWebsite . '" target="_blank">' . tr('My Website') . '</a></li>'; } ?>
+							<?php $myWebsite='http://localhost:80'; if($myWebsite!='') { echo '<li><a class="navbar-brand" href="' . $myWebsite . '" target="_blank">' . tr('My Website') . '</a></li>'; } ?>
 							<li<?php if (strpos('apc eaccelerator xcache phpmyadmin phpliteadmin phpinfo', $page) !== false) { ?> class="active dropdown"<?php } else { ?> class="dropdown" <?php } ?>>
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><?php echo tr("Tools") ?> <b class="caret"></b></a>
 								<ul class="dropdown-menu">

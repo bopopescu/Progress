@@ -11,7 +11,7 @@ get_header();
         <div class="section-title">
             <h3 class="char-color">service</h3>
             <div class="title">
-            <h1>不<span class="char-color">用</span>品サービス</h1>
+                <h1>不<span class="char-color">用</span>品サービス</h1>
             </div>
             <h3 class="char-color">プロの知識でお客様にとってベストなサービスを</h3>
             <p>不動産事業を展開し在宅資格保有者が在籍しておりますのでご安心ください。また、提携するプロの解体業者が
@@ -97,12 +97,128 @@ get_header();
     <section class="container-sp">
         <div class="section-title">
             <div class="title">
-                <h1>リングが<span class="char-color">選</span>ばれる<span class="sm-char">理由</span></h1>
+                <h1>不<span class="char-color">用</span>品サービス</h1>
             </div>
             <span>service</span>
             <span class="line"></span>
-            <span>プロの知識でお客様にとってベストなサービスを</span>
+            <span class="char-color">プロの知識でお客様にとって<br>ベストなサービスを</span>
         </div>
+        <section class="multi-column-sp">
+
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/tairyo_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>大量の不用品</h5>
+                    <p>リフォーム・家屋建替え・売却などの大量の不用品・粗大ゴミが出る場合は不用品回収リングへお問い合わせください！</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/shoryo_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>少量の不用品</h5>
+                    <p>１点からの不用品もお気軽にどうぞ！「こんな物でも捨ててくれるの？」といったお悩みも不用品回収リングにおまかせください！</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/ogata_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>大型家具・家財</h5>
+                    <p>大型不用品の回収・粗大ゴミ処分でお困りの際には不用品回収オーケー大阪へご連絡ください！</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/fuyokaden_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>電化製品の不用品</h5>
+                    <p>不用品回収リングは捨てにくい家電の粗大ゴミにも対応しております。家電５品目やそれ以外の不用品・粗大ゴミを買い取り・格安で処分、回収を行います。</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/hikkoshi_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>引越し時の不用品</h5>
+                    <p>不意に発生した大量の不用品、廃品の回収は、日時指定・即日対応が可能な弊社に是非おまかせください！</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/minka_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>遺品整理・処分</h5>
+                    <p>故人様が残された大切な遺品のお片づけを、まごころこめてお手伝いさせていただきます。</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/hojin_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>法人向けサービス</h5>
+                    <p>オフィス移転、倉庫の在庫処分から、業務用厨房機器まで、幅広い不用品、廃品を回収させていただけます。</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/sonota_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>その他の不用品</h5>
+                    <p>家具・家電製品から雑貨・子供用品・ブランド品・工具まで、あらゆる不用品・粗大ゴミを回収いたします！</p>
+                </div>
+            </div>
+        </section>
+        <section class="multi-column-sp">
+            <div class="list-title">
+                <h4>引き取り以外の<span class="char-color">作</span>業もお<span class="char-color">任</span>せください</h4>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/toritsuke.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>取り付け・取り外し</h5>
+                    <p>エアコン・給湯器、室外機、洗濯機など、取り外しの難しい家電類もリングにおまかせください。</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/tsuri.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>吊作業での搬出</h5>
+                    <p>玄関からベッドがでない」そんな時にも安心。窓から搬出する吊作業にも慣れた熟練スタッフにおまかせください。</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/kaitai_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>分解・解体・撤去</h5>
+                    <p>物置の解体や家具の分解もOK！不用品と物置まるごとも対応可能です。</p>
+                </div>
+            </div>
+            <div class="multi-list-sp">
+                <div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/service/kumitate_sp.jpg" alt="">
+                </div>
+                <div class="multi-lists-text">
+                    <h5>家具の組立て・移動</h5>
+                    <p>ベッド・棚・ラックなどあらゆる家具の組立に対応いたします。また大事な家具移動に細心の注意を払って素早く丁寧にお運びいたします！</p>
+                </div>
+            </div>
+        </section>
     </section>
     <section class="card">
         <span>各種クレジットカードもご利用いただけます</span>

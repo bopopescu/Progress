@@ -4,7 +4,7 @@ Template Name: reason
 */
 get_header();
 ?>
-     <aside> 
+    <aside> 
         <?php get_sidebar(); //sidebar.phpを取得 ?>
     </aside>
     <section class="container">

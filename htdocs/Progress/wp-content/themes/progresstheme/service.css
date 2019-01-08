@@ -12,7 +12,7 @@ Version: 1.0
     width: 100%;
     clear: both;
     margin: 0 auto;
-    
+    margin-top: 400px;
 }
 
 .multi-column {
@@ -30,32 +30,50 @@ Version: 1.0
     border-radius: 20px;
 }
 
-.multi-list:nth-child(2),
-.multi-list:nth-child(3),
-.multi-list:nth-child(6),
-.multi-list:nth-child(7){
-    border: 4px solid  #42672a;
-}
-
-.multi-list:nth-child(2) h2,
-.multi-list:nth-child(3) h2,
-.multi-list:nth-child(6) h2,
-.multi-list:nth-child(7) h2 {
-    color: #42672a;
-}
-
 .multi-list:nth-child(1),
 .multi-list:nth-child(4),
 .multi-list:nth-child(5),
-.multi-list:nth-child(8) {
+.multi-list:nth-child(8),
+.multi-list:nth-child(9)
+.multi-list-sp:nth-child(1),
+.multi-list-sp:nth-child(3),
+.multi-list-sp:nth-child(5),
+.multi-list-sp:nth-child(7),
+.multi-list-sp:nth-child(9){
     border: 4px solid  rgb(145, 177, 54);
 }
 
 .multi-list:nth-child(1) h2,
 .multi-list:nth-child(4) h2,
 .multi-list:nth-child(5) h2,
-.multi-list:nth-child(8) h2{
+.multi-list:nth-child(8) h2,
+.multi-list-sp:nth-child(1) h5,
+.multi-list-sp:nth-child(3) h5,
+.multi-list-sp:nth-child(5) h5,
+.multi-list-sp:nth-child(7) h5{
     color: rgb(145, 177, 54);
+}
+
+.multi-list:nth-child(2),
+.multi-list:nth-child(3),
+.multi-list:nth-child(6),
+.multi-list:nth-child(7),
+.multi-list-sp:nth-child(2),
+.multi-list-sp:nth-child(4),
+.multi-list-sp:nth-child(6),
+.multi-list-sp:nth-child(8){
+    border: 4px solid  #42672a;
+}
+
+.multi-list:nth-child(2) h2,
+.multi-list:nth-child(3) h2,
+.multi-list:nth-child(6) h2,
+.multi-list:nth-child(7) h2,
+.multi-list-sp:nth-child(2) h5,
+.multi-list-sp:nth-child(4) h5,
+.multi-list-sp:nth-child(6) h5,
+.multi-list-sp:nth-child(8) h5{
+    color: #42672a;
 }
 
 .multi-list p {
@@ -68,4 +86,42 @@ Version: 1.0
 
 .list-title h2 {
     margin: 120px 0;
+}
+
+@media screen and (max-width: 480px) {
+
+    .multi-column-sp {
+        display: flex;
+        flex-direction: column;
+    }
+    .multi-list-sp {
+        display: flex;
+        flex-direction: row;
+        border-radius: 20px;
+        padding: 24px;
+        margin: 15px 0;
+    }
+
+    .multi-list-sp div {
+        width: 50%;
+        height: auto;
+    }
+
+    .multi-list-sp .multi-lists-text {
+        text-align: left;
+        padding-left: 10px;
+    }
+
+    .multi-lists-text h5,
+    .multi-lists-text p{
+        margin-top: 0;
+    }
+
+    .multi-lists-text p{
+        font-size: 12px;
+    }
+
+    .list-title h4 {
+        margin: 60px 0;
+    }
 }

@@ -1,0 +1,8 @@
+[11/27/2018, 12:17:53 PM] layer "tel_side.png": Duplicate path: tel_side.png
+[11/27/2018, 12:17:53 PM] layer "email_side.png": Duplicate path: email_side.png
+[11/27/2018, 12:17:53 PM] layer "LINE_side.png": Duplicate path: LINE_side.png
+[11/27/2018, 12:17:53 PM] layer "home.png": Duplicate path: home.png
+[11/27/2018, 12:17:53 PM] layer "cleaning-service.png": Duplicate path: cleaning-service.png
+[11/27/2018, 12:17:53 PM] layer "cube2.png": Duplicate path: cube2.png
+[11/27/2018, 12:17:53 PM] layer "harikae_sp.jpg": Duplicate path: harikae_sp.jpg
+[11/27/2018, 12:17:53 PM] layer "harikae.jpg": Duplicate path: harikae.jpg
