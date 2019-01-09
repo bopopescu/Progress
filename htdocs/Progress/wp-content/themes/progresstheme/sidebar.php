@@ -24,13 +24,13 @@
             </a>
         </li>
         <li>
-            <a href="<?php echo home_url(); ?>">
+            <a href="<?php echo home_url('/move-house'); ?>">
                 <span>不用品回収・粗大ゴミ回収</span>
                 <h4>引っ越しサービス</h4>
             </a>
         </li>
         <li>
-            <a href="<?php echo home_url(); ?>">
+            <a href="<?php echo home_url('/move-house'); ?>">
                 <span>頼りになる</span>
                 <h4>家具組立・移動サービス</h4>
             </a>

@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* < !--エンコードがUTF-8であることを指定--> */
+/*
+/*
+Theme Name: Progress-Project
+Author: jum2948
+Description: プロジェクトのコーポレートサイト
+Version: 1.0
+*/
+
+.strong-point {
+    width: 100%;
+}
+
+.strong-point .section-title {
+    float: none;
+}
+
+.line-title .section-title {
+    float: none;
+    margin: 0 auto;
+}
+
+.moving-row {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.moving-flow {
+    width: 45%;
+    margin: 20px;
+    float: left;
+}
+
+.moving-flow .multi-list {
+    max-width: 90%;
+    padding: 40px;
+    margin: 20px 0;
+}
+
+#flow-right {
+    margin-top: 60px;
+}
+
+#flow-right .multi-list {
+    margin: 15px 0;
+}
