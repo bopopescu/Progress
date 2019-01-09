@@ -651,3 +651,7 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php on line 1
+[09-Jan-2019 01:18:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/Progress/wp-content/themes/progresstheme/index.php on line 1

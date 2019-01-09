@@ -12,12 +12,26 @@ Version: 1.0
 }
 
 #reform .multi-list {
-    max-width: 35%;
     padding: 20px 80px;
 }
 
+#reform .up {
+    padding-top: 50px;
+}
 #reform .multi-list p {
     text-align: center;
+}
+
+.reform-text {
+    margin-left: 20px;
+}
+
+.reform-text h4 {
+    margin-top: 0;
+}
+
+#reform .multi-list {
+    border: 3px solid  rgb(145, 177, 54);
 }
 
 #reform .thin {
@@ -25,12 +39,11 @@ Version: 1.0
 }
 
 #reform .thin .column {
-    padding: 20px;
+    padding: 50px 0;
 }
 
-.row-pic img {
-    padding: 15px;
-    width: 60%;
+#reform .samazama .column{
+    padding-top: 0;
 }
 
 .row {
@@ -39,36 +52,97 @@ Version: 1.0
     justify-content: center;
 }
 
-.fa-chevron-circle-right {
-    color: #42672a;
+.thin h4 {
+    margin-top: 0;;
 }
 
-#compare:after{
-    color: rgb(145, 177, 54);
-    font-family: "Font Awesome 5 Free";
-    content: '\f35a';
+.row-pic {
+    margin: 0 20px;
+}
+
+.fa-chevron-circle-right {
+    color: #42672a;
 }
 
 .last-item {
     float: left;
 }
 
+.row-text {
+    margin-left: 20px;
+}
 @media screen and (max-width: 480px) {
+
+    #reform-section-title {
+        margin: 0;
+    }
+    
     #reform-sp .multi-list-sp{
         display: flex;
         flex-direction: column;
-        padding: 0;
+        padding: 10px;
+        margin: 5px;
+        border: 3px solid  rgb(145, 177, 54);
     }
 
-    #reform-sp .multi-list-sp div {
-        margin: 0 auto;
+    #reform-sp .multi-list-sp h2{
+        color:  rgb(145, 177, 54);
     }
+
+    #reform-sp .multi-list-sp h4{
+        margin-top: 0;
+    }
+
+    #reform-sp .thin {
+        border: 3px solid #42672a;
+    }
+
+    #reform-sp .thin h2{
+        color: #42672a;
+    }
+
 
     #reform-sp .multi-list-sp .row {
         margin: 0;
         width: 100%;
-        padding: 5px;
+        padding: 0px;
         font-size: 12px;
         text-align: left;
+    }
+
+    .reform-icon {
+        padding-top: 42px;
+    }
+
+    .list-pic {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    #reform-sp .thin h4 {
+        margin-bottom: 0;
+    }
+
+    .reform-text {
+        margin-left: 10px;
+    }
+
+    #reform-sp .thin .row {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #reform-sp .thin .column {
+        padding-top: 50px;
+    }
+
+    #samazama-title h4{
+        margin-bottom: 20px;
+    }
+    
+    #samazama {
+        width: 90%;
+        padding: 20px;
     }
 }

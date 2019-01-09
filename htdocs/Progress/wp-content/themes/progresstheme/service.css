@@ -102,7 +102,7 @@ Version: 1.0
     }
 
     .multi-list-sp div {
-        width: 50%;
+        /* max-width: 50%; */
         height: auto;
     }
 
