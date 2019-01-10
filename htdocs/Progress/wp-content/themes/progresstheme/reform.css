@@ -125,6 +125,7 @@ Version: 1.0
 
     .reform-text {
         margin-left: 10px;
+        max-width: 50%;
     }
 
     #reform-sp .thin .row {
