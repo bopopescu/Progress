@@ -1,0 +1,3 @@
+[12/3/2018, 12:23:43 PM] layer "tel_side.png": Duplicate path: tel_side.png
+[12/3/2018, 12:23:43 PM] layer "email_side.png": Duplicate path: email_side.png
+[12/3/2018, 12:23:43 PM] layer "LINE_side.png": Duplicate path: LINE_side.png
