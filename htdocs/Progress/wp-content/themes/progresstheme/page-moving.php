@@ -19,7 +19,7 @@ get_header();
             </p>
         </div>
         <section class="multi" id="moving">
-            <div class="multi-column">
+            <div class="multi-column top-title">
                 <div class="multi-list">
                     <div>
                         <img src="<?php echo get_template_directory_uri(); ?>/img/moving/thinking.png" alt="">
@@ -57,7 +57,6 @@ get_header();
             </div>
             <p>不用になった品を買い取り、お引越し作業代金から減額しますので、リサイクルショップに持っていく手間も省け、格安で引越しができます。</p>
             <div class="row">
-                
                 <div>
                     <img src="<?php echo get_template_directory_uri(); ?>/img/moving/lowprce.png" alt="">
                 </div>
