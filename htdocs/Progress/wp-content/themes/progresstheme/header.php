@@ -21,6 +21,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/competitive.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/flow.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/moving.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/assemble.css" />
     <!-- <script src="<?php echo get_template_directory_uri(); ?>/slick/slick.min.js"></script> -->
     <?php wp_head(); //wp_headはテーマの</head>タグ直前に必ず挿入します ?>
 </head>

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* < !--エンコードがUTF-8であることを指定--> */
+/*
+/*
+Theme Name: Progress-Project
+Author: jum2948
+Description: プロジェクトのコーポレートサイト
+Version: 1.0
+*/
+
+#assemble-row div{
+    margin: 0 20px;
+}
+
+#assemble-block-pic .row {
+    flex-wrap: wrap;
+}
+
+#assemble-block-pic .row div{
+    max-width: 40%;
+    margin: 3px 5px;
+}

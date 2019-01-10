@@ -30,7 +30,7 @@
             </a>
         </li>
         <li>
-            <a href="<?php echo home_url('/move-house'); ?>">
+            <a href="<?php echo home_url('/assemble'); ?>">
                 <span>頼りになる</span>
                 <h4>家具組立・移動サービス</h4>
             </a>

@@ -97,22 +97,22 @@ get_header();
             </div>
             <div class="moving-flow" id="flow-right">
                 <div class="multi-list">
-                    <h1>日時指定 OK</h1>
+                    <h1 class="char-color">日時指定 OK</h1>
                 </div>
                 <div class="multi-list">
-                    <h1>明朗会計</h1>
+                    <h1 class="char-color">明朗会計</h1>
                 </div>
                 <div class="multi-list">
-                    <h1>見積無料</h1>
+                    <h1 class="char-color">見積無料</h1>
                 </div>
                 <div class="multi-list">
-                    <h1>一時保管 OK</h1>
+                    <h1 class="char-color-green">一時保管 OK</h1>
                 </div>
                 <div class="multi-list">
-                    <h1>重量物も OK</h1>
+                    <h1 class="char-color">重量物も OK</h1>
                 </div>
                 <div class="multi-list">
-                    <h1>高価買取</h1>
+                    <h1 class="char-color-green">高価買取</h1>
                 </div>
             </div>
         </section>
@@ -139,7 +139,7 @@ get_header();
                     <div>
                         <img src="<?php echo get_template_directory_uri(); ?>/img/moving/family_sp.png" alt="">
                     </div>
-                    <h4 class="char-color-green">ご家族のお引越し</h4>
+                    <h4 class="thin">ご家族のお引越し</h4>
                 </div>
                 <div class="multi-list mobile-row">
                     <div>
