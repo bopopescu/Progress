@@ -26,8 +26,14 @@
   });
   // スライダーアニメーション
   // 画面サイズによる条件分岐　要
-  var setElm = $('.slide'),
-    slideSpeed = 3000;
+  if ($(window).width() > 480) {
+    var setElm = $('.slide');
+    console.log('aaaa');
+  } else {
+    var setElm = $('.slide-sp');
+    console.log('hhhgh');
+  }
+  slideSpeed = 3000;
 
   setElm.each(function() {
     var self = $(this),
