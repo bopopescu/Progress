@@ -51,6 +51,7 @@ h1 {
 .title {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .title a {
@@ -115,13 +116,16 @@ header {
     position: absolute;
 }
 
-.slide {
+.slide,
+.slide-sp {
     width: 100%;
     text-align: left;
+    margin-top: -7px;
     position: relative;
 }
 
-.slide ul{
+.slide ul,
+.slide-sp ul{
     max-width: 100%;
     margin: 0 auto;
     padding: 0;
@@ -129,7 +133,8 @@ header {
     overflow: hidden;
 }
 
-.slide ul li {
+.slide ul li ,
+.slide-sp ul li{
     display: inline;
     overflow: hidden;
 }
@@ -395,8 +400,6 @@ header {
     margin-top: 40px;
 }
 /* ================================================ */
-
-
 
 .reason-describe {
     width: 100%;
@@ -705,6 +708,18 @@ footer {
         z-index: 100;
     }
 
+    .title h1 {
+        font-size: 30px;
+    }
+
+    .title a {
+        right: 10%;
+    }
+
+    .sm-char {
+        font-size: 20px;
+    }
+
     .menu-trigger,
     .menu-trigger span {
         display: inline-block;
@@ -759,13 +774,8 @@ footer {
     } 
 
     .mb-logo {
-        padding-left: 10px;
-    }
-    
-    .mb-logo img {
-        width: 80%;
-        padding: 20px 0;
-        float: left;
+        padding-left: 5px;
+        padding-top: 15px;
     }
 
     .mb-title img {
@@ -849,7 +859,7 @@ footer {
     .ratio:before {
         content: "";
         display: block;
-        padding-top: 73%;
+        padding-top: 75%;
     }
 
     .ja-map {
@@ -1006,7 +1016,7 @@ footer {
     .reason-point {
         width: 90%;
         height: 140px;
-        margin-left: 20px;
+        margin-left: 10px;
         text-align: left;
         border-bottom: solid 2px #000000;
         float: left;
@@ -1099,7 +1109,8 @@ footer {
         width: 80%;
         color: #FFFF;
         font-size: 13px;
-        margin-bottom: 0;;
+        margin-bottom: 0;
+        margin-top: 0;
     }
 
     .service img {
@@ -1108,7 +1119,7 @@ footer {
         padding: 10px;
     }
 
-    .service .fas {
+    .service .fa-angle-right {
         color: #fff;
     }
 
@@ -1218,12 +1229,20 @@ footer {
         display: flex;
         background-color: rgb(145, 177, 54);
     }
+
+    /* =============================================================== */
+
+    .nav-list {
+        display: flex;
+        flex-direction: row;
+    }
     
     .footer-nav-sp>ul{
         display: flex;
         margin: 0;
         padding: 0;
     }
+
 
     .footer-nav-sp li {
         padding: 7px 0 0 6px;

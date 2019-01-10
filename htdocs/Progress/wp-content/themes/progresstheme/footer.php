@@ -105,12 +105,19 @@
         </ul>
     </section>
     <?php wp_footer(); ?>
-    <section class="footer-nav-sp">
+    <!-- <section class="footer-nav-sp">
         <ul>
             <li><img src="<?php echo get_template_directory_uri(); ?>/img/tel_foot.png" alt="" id="tel"></li>
             <li><img src="<?php echo get_template_directory_uri(); ?>/img/mitsumori.png" alt="" id="mitsumori"></li>
             <li><img src="<?php echo get_template_directory_uri(); ?>/img/LINE.png" alt="" id="line"></li>
         </ul>
+    </section> -->
+    <section class="footer-nav-sp">
+        <div class="nav-list">
+            <div><img src="<?php echo get_template_directory_uri(); ?>/img/tel_foot.png" alt=""></div>
+            <div><img src="<?php echo get_template_directory_uri(); ?>/img/mitsumori.png" alt=""></div>
+            <div><img src="<?php echo get_template_directory_uri(); ?>/img/LINE.png" alt=""></div>
+        </div>
     </section>
 </body>
 </html>

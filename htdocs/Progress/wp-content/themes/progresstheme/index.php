@@ -146,28 +146,7 @@
             </div>
             <div class="flow-img-pc">
                 <div>
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/step.png" alt="">
-                    <ul>
-                        <li>
-                            <img src="<?php echo get_template_directory_uri(); ?>/img/1.png" alt="">
-                        </li>
-                        <li>
-                            <img src="<?php echo get_template_directory_uri(); ?>/img/2.png" alt="">
-                        </li>
-                        <li>
-                            <img src="<?php echo get_template_directory_uri(); ?>/img/3.png" alt="">
-                        </li>
-                        <li>
-                            <img src="<?php echo get_template_directory_uri(); ?>/img/4.png" alt="">
-                        </li>
-                        <li>
-                            <img src="<?php echo get_template_directory_uri(); ?>/img/5.png" alt="">
-                        </li>
-                        <li>
-                            <img src="<?php echo get_template_directory_uri(); ?>/img/6.png" alt="">
-                        </li>
-
-                    </ul>
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/nagare.png" alt="">
                 </div>
             </div>
             <div class="flow-img-sp">
@@ -194,7 +173,6 @@
                         <li>
                             <img src="<?php echo get_template_directory_uri(); ?>/img/6_SP.png" alt="">
                         </li>
-
                     </ul>
                 </div>
             </div>
@@ -203,7 +181,7 @@
         <section class="reason">
             <div class="section-title">
                 <div class="title">
-                    <h1>リングが<span class="char-color">選</span>ばれる<span class="sm-char">理由</span></h1>
+                    <h1><span class="char-color">選</span>ばれる<span class="sm-char">理由</span></h1>
                     <a href="<?php echo home_url('/reason'); ?>"><i class="fas fa-arrow-alt-circle-right fa-3x"></i></a>
                 </div>
                 <span>reason</span>
@@ -461,7 +439,7 @@
                         <i class="fas fa-angle-right"></i>
                     </a>
                 </li>
-                <li id="reform" class="dark">
+                <li class="dark">
                     <img src="<?php echo get_template_directory_uri(); ?>/img/service3_SP.png" alt="">
                     <a href="">
                         <h4>リフォーム・<br>ハウスクリーニング</h4>
