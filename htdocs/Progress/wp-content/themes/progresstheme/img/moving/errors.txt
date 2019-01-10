@@ -1,0 +1,10 @@
+[11/13/2018, 5:30:44 PM] layer "tel_side.png": Duplicate path: tel_side.png
+[11/13/2018, 5:30:44 PM] layer "email_side.png": Duplicate path: email_side.png
+[11/13/2018, 5:30:44 PM] layer "LINE_side.png": Duplicate path: LINE_side.png
+[11/13/2018, 5:30:27 PM] layer "thinking.png": Duplicate path: thinking.png
+[11/13/2018, 5:30:27 PM] layer "family.png": Duplicate path: family.png
+[11/13/2018, 5:30:27 PM] layer "baggage.png": Duplicate path: baggage.png
+[11/13/2018, 5:30:27 PM] layer "plus.png": Duplicate path: plus.png
+[11/13/2018, 5:30:27 PM] layer "equal.png": Duplicate path: equal.png
+[11/13/2018, 5:30:27 PM] layer "pig.png": Duplicate path: pig.png
+[11/13/2018, 5:30:27 PM] layer "lowprce.png": Duplicate path: lowprce.png
